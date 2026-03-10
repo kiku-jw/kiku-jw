@@ -19,6 +19,7 @@ Live site: [kikuai.dev](https://kikuai.dev)
 - [thread-router](https://github.com/kiku-jw/thread-router) - Reply-driven thread workflows for Telegram forum chats.
 - [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) - Small public kit for turning a loose PRD into an agent-ready implementation bundle.
 - [polybudget-sim](https://github.com/kiku-jw/polybudget-sim) - Research-only CLI for analyzing public prediction-market traders and backtesting simulation scenarios.
+- [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) - Dataset-first toolkit for scoring market events and replaying paper-trading research scenarios.
 - [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) - Practical CrossOver fix for the PEAK mouse input bug on macOS.
 - [github-star-remover](https://github.com/kiku-jw/github-star-remover) - Small CLI tool for bulk GitHub star cleanup.
 
