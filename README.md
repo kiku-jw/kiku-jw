@@ -18,8 +18,10 @@ Live site: [kikuai.dev](https://kikuai.dev)
 - [session-to-post](https://github.com/kiku-jw/session-to-post) - Turn real coding sessions into clean development diary drafts.
 - [thread-router](https://github.com/kiku-jw/thread-router) - Reply-driven thread workflows for Telegram forum chats.
 - [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) - Small public kit for turning a loose PRD into an agent-ready implementation bundle.
+- [routellm](https://github.com/kiku-jw/routellm) - Profile-based FastAPI router for LLM providers with cost, latency, and fallback-aware model selection.
 - [polybudget-sim](https://github.com/kiku-jw/polybudget-sim) - Research-only CLI for analyzing public prediction-market traders and backtesting simulation scenarios.
 - [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) - Dataset-first toolkit for scoring market events and replaying paper-trading research scenarios.
+- [site-blocker](https://github.com/kiku-jw/site-blocker) - Host-level blocker for macOS/Linux that adds friction through long-lived self-control locks.
 - [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) - Practical CrossOver fix for the PEAK mouse input bug on macOS.
 - [github-star-remover](https://github.com/kiku-jw/github-star-remover) - Small CLI tool for bulk GitHub star cleanup.
 
