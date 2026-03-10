@@ -26,7 +26,6 @@ Live site: [kikuai.dev](https://kikuai.dev)
 Some older repositories stay public as references, experiments, or maintenance-mode tools. They are still useful, but not the main story of this profile.
 
 - [kiku-dist](https://github.com/kiku-jw/kiku-dist)
-- [kikuai-bot](https://github.com/kiku-jw/kikuai-bot)
 - [fynx](https://github.com/kiku-jw/fynx)
 - [DriftGuard](https://github.com/kiku-jw/DriftGuard)
 - [kikuai-blog](https://github.com/kiku-jw/kikuai-blog)
