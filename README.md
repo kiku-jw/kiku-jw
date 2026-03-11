@@ -9,8 +9,6 @@
   ·
   <a href="https://kikuai.dev">site</a>
   ·
-  <a href="https://patas.app">patas</a>
-  ·
   <a href="./CV.md">cv</a>
   ·
   <a href="https://t.me/kiku_ai">blog</a>
@@ -22,34 +20,34 @@
 
 | Project | What it is |
 | --- | --- |
+| [PATAS](https://patas.app) | Pattern search in large datasets. |
 | [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS with history, search, and NotebookLM export. |
-| [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for HTTP APIs and LLM calls with retries, cache, and cost control. |
-| [masker](https://github.com/kiku-jw/masker) | PII redaction API for sanitizing data before sending it to LLMs. |
 | [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleaner for removing headers, footers, and other text noise. |
 | [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer that extracts structured data from chart images. |
+| [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for HTTP APIs and LLM calls with retries, cache, and cost control. |
+| [masker](https://github.com/kiku-jw/masker) | PII redaction API for sanitizing data before sending it to LLMs. |
 | [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for planning, execution, and human control. |
+| [session-to-post](https://github.com/kiku-jw/session-to-post) | Turn coding sessions into usable development notes and drafts. |
+| [thread-router](https://github.com/kiku-jw/thread-router) | Route Telegram forum threads into structured workflows. |
+| [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) | Turn a loose PRD into an agent-ready implementation bundle. |
+| [routellm](https://github.com/kiku-jw/routellm) | Profile-based LLM router with cost, latency, and fallback-aware model selection. |
 
-## Systems and Research
+## Small Tools
 
-| Track | Selected repos |
+| Tool | What it is |
 | --- | --- |
-| Agent workflows | [session-to-post](https://github.com/kiku-jw/session-to-post), [thread-router](https://github.com/kiku-jw/thread-router), [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) |
-| AI infrastructure | [routellm](https://github.com/kiku-jw/routellm), [reliapi](https://github.com/kiku-jw/reliapi), [masker](https://github.com/kiku-jw/masker) |
-| Research tooling | [polybudget-sim](https://github.com/kiku-jw/polybudget-sim), [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) |
-| Small utilities | [site-blocker](https://github.com/kiku-jw/site-blocker), [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix), [github-star-remover](https://github.com/kiku-jw/github-star-remover) |
-
-## Products
-
-- [KikuAI](https://kikuai.dev) — simple tools for data analysis and automation
-- [PATAS](https://patas.app) — pattern search in large datasets
-- [CV](./CV.md) — public profile CV
+| [site-blocker](https://github.com/kiku-jw/site-blocker) | Host-level website blocker for macOS and Linux with a long default lock window. |
+| [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) | Practical CrossOver fix for the PEAK mouse input bug on macOS. |
+| [github-star-remover](https://github.com/kiku-jw/github-star-remover) | Small CLI tool for bulk GitHub star cleanup. |
 
 ## Archive Shelf
 
 Older public repos that still have reference value, but are not the center of the profile:
 
-- [kiku-dist](https://github.com/kiku-jw/kiku-dist)
-- [fynx](https://github.com/kiku-jw/fynx)
-- [DriftGuard](https://github.com/kiku-jw/DriftGuard)
-- [kikuai-blog](https://github.com/kiku-jw/kikuai-blog)
-- [kyuva](https://github.com/kiku-jw/kyuva)
+- [polybudget-sim](https://github.com/kiku-jw/polybudget-sim) — simulation-first CLI for analyzing public prediction-market traders.
+- [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) — dataset-first toolkit for scoring market events and replaying paper-trading scenarios.
+- [kiku-dist](https://github.com/kiku-jw/kiku-dist) — older distribution and packaging repo from the KikuAI toolchain.
+- [fynx](https://github.com/kiku-jw/fynx) — earlier experiment kept as a public reference.
+- [DriftGuard](https://github.com/kiku-jw/DriftGuard) — older public reliability / monitoring experiment.
+- [kikuai-blog](https://github.com/kiku-jw/kikuai-blog) — legacy public blog repo.
+- [kyuva](https://github.com/kiku-jw/kyuva) — archived macOS teleprompter project.
