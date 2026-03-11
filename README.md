@@ -11,6 +11,8 @@
   ·
   <a href="./CV.md">cv</a>
   ·
+  <a href="https://github.com/kiku-jw/awesome-ai-skills-by-kiku">ai skills</a>
+  ·
   <a href="https://t.me/kiku_ai">blog</a>
   ·
   <a href="https://suno.com/@kiku_jw">music</a>
