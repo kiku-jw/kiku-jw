@@ -1,16 +1,18 @@
 <h1 align="center">Nick</h1>
 
 <p align="center">
-  <strong>We build simple tools for data analysis and automation.</strong><br>
+  <strong>I build simple tools for data analysis and automation.</strong><br>
   Turn messy inputs into usable data.
 </p>
 
 <p align="center">
-  <a href="https://github.com/kiku-jw">github</a>
+  <a href="https://www.linkedin.com/in/kiku-jw/">linkedin</a>
   ·
   <a href="https://kikuai.dev">kikuai.dev</a>
   ·
   <a href="https://patas.app">patas.app</a>
+  ·
+  <a href="./CV.md">cv</a>
   ·
   <a href="https://t.me/kiku_ai">blog</a>
   ·
@@ -35,10 +37,13 @@ clean -> classify -> dedupe -> summarize -> automate
 - Call and voice-message transcription with summaries
 - Changelog, release notes, and change-summary generation
 - Reports built from logs, spreadsheets, and conversations
+- Custom AI assistants and operator workflows for internal teams
 
 ## Stack
 
 `Python` · `TypeScript` · `Rust` · `Golang`
+
+Also comfortable with AI assistant setup, image-generation workflows, and small internal tools that reduce repetitive digital work.
 
 ## Selected Repositories
 
@@ -59,6 +64,7 @@ clean -> classify -> dedupe -> summarize -> automate
 
 - [KikuAI](https://kikuai.dev) — simple tools for data analysis and automation
 - [PATAS](https://patas.app) — pattern search in large datasets
+- [CV](./CV.md) — public profile CV
 
 ## Writing and Side Work
 
