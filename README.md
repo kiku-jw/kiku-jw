@@ -26,16 +26,17 @@
 | [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer that extracts structured data from chart images. |
 | [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for HTTP APIs and LLM calls with retries, cache, and cost control. |
 | [masker](https://github.com/kiku-jw/masker) | PII redaction API for sanitizing data before sending it to LLMs. |
-| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for planning, execution, and human control. |
-| [session-to-post](https://github.com/kiku-jw/session-to-post) | Turn coding sessions into usable development notes and drafts. |
-| [thread-router](https://github.com/kiku-jw/thread-router) | Route Telegram forum threads into structured workflows. |
-| [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) | Turn a loose PRD into an agent-ready implementation bundle. |
 | [routellm](https://github.com/kiku-jw/routellm) | Profile-based LLM router with cost, latency, and fallback-aware model selection. |
+| [kikuai-blog](https://github.com/kiku-jw/kikuai-blog) | Public blog pipeline and publishing repo for the KikuAI build diary and project posts. |
 
 ## Small Tools
 
 | Tool | What it is |
 | --- | --- |
+| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for planning, execution, and human control. |
+| [session-to-post](https://github.com/kiku-jw/session-to-post) | Turn coding sessions into usable development notes and drafts. |
+| [thread-router](https://github.com/kiku-jw/thread-router) | Route Telegram forum threads into structured workflows. |
+| [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) | Turn a loose PRD into an agent-ready implementation bundle. |
 | [site-blocker](https://github.com/kiku-jw/site-blocker) | Host-level website blocker for macOS and Linux with a long default lock window. |
 | [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) | Practical CrossOver fix for the PEAK mouse input bug on macOS. |
 | [github-star-remover](https://github.com/kiku-jw/github-star-remover) | Small CLI tool for bulk GitHub star cleanup. |
@@ -49,5 +50,4 @@ Older public repos that still have reference value, but are not the center of th
 - [kiku-dist](https://github.com/kiku-jw/kiku-dist) — older distribution and packaging repo from the KikuAI toolchain.
 - [fynx](https://github.com/kiku-jw/fynx) — earlier experiment kept as a public reference.
 - [DriftGuard](https://github.com/kiku-jw/DriftGuard) — older public reliability / monitoring experiment.
-- [kikuai-blog](https://github.com/kiku-jw/kikuai-blog) — legacy public blog repo.
 - [kyuva](https://github.com/kiku-jw/kyuva) — archived macOS teleprompter project.
