@@ -1,33 +1,46 @@
-# Nick
+<h1 align="center">Nick</h1>
 
-AI product builder focused on practical tools, agent workflows, and small systems that ship.
+<p align="center">
+  <strong>AI product builder focused on practical tools, agent workflows, and small systems that ship.</strong>
+</p>
 
-Live site: [kikuai.dev](https://kikuai.dev)
+<p align="center">
+  <a href="https://kikuai.dev">site</a>
+  ·
+  <a href="https://t.me/kiku_ai">blog</a>
+  ·
+  <a href="https://suno.com/@kiku_jw">music</a>
+</p>
+
+```text
+build > products, automation, infrastructure
+write > notes, experiments, shipping logs
+music > side-channel creative output
+```
 
 ## Flagship Projects
 
-- [ClipStash](https://github.com/kiku-jw/ClipStash) - Privacy-first clipboard manager for macOS with history, search, and NotebookLM export.
-- [reliapi](https://github.com/kiku-jw/reliapi) - Reliability layer for HTTP APIs and LLM calls with retries, cache, and cost control.
-- [masker](https://github.com/kiku-jw/masker) - PII redaction API for sanitizing data before sending it to LLMs.
-- [DocStripper](https://github.com/kiku-jw/DocStripper) - Batch document cleaner for removing headers, footers, and other text noise.
-- [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) - AI-assisted chart digitizer that extracts structured data from chart images.
-- [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) - Deterministic GitHub Issue workflow for planning, execution, and human control.
+| Project | What it is |
+| --- | --- |
+| [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS with history, search, and NotebookLM export. |
+| [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for HTTP APIs and LLM calls with retries, cache, and cost control. |
+| [masker](https://github.com/kiku-jw/masker) | PII redaction API for sanitizing data before sending it to LLMs. |
+| [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleaner for removing headers, footers, and other text noise. |
+| [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer that extracts structured data from chart images. |
+| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for planning, execution, and human control. |
 
-## Selected Systems
+## Systems and Research
 
-- [session-to-post](https://github.com/kiku-jw/session-to-post) - Turn real coding sessions into clean development diary drafts.
-- [thread-router](https://github.com/kiku-jw/thread-router) - Reply-driven thread workflows for Telegram forum chats.
-- [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) - Small public kit for turning a loose PRD into an agent-ready implementation bundle.
-- [routellm](https://github.com/kiku-jw/routellm) - Profile-based FastAPI router for LLM providers with cost, latency, and fallback-aware model selection.
-- [polybudget-sim](https://github.com/kiku-jw/polybudget-sim) - Research-only CLI for analyzing public prediction-market traders and backtesting simulation scenarios.
-- [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) - Dataset-first toolkit for scoring market events and replaying paper-trading research scenarios.
-- [site-blocker](https://github.com/kiku-jw/site-blocker) - Host-level blocker for macOS/Linux that adds friction through long-lived self-control locks.
-- [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) - Practical CrossOver fix for the PEAK mouse input bug on macOS.
-- [github-star-remover](https://github.com/kiku-jw/github-star-remover) - Small CLI tool for bulk GitHub star cleanup.
+| Track | Selected repos |
+| --- | --- |
+| Agent workflows | [session-to-post](https://github.com/kiku-jw/session-to-post), [thread-router](https://github.com/kiku-jw/thread-router), [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) |
+| AI infrastructure | [routellm](https://github.com/kiku-jw/routellm), [reliapi](https://github.com/kiku-jw/reliapi), [masker](https://github.com/kiku-jw/masker) |
+| Research tooling | [polybudget-sim](https://github.com/kiku-jw/polybudget-sim), [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) |
+| Small utilities | [site-blocker](https://github.com/kiku-jw/site-blocker), [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix), [github-star-remover](https://github.com/kiku-jw/github-star-remover) |
 
-## Legacy and Past Work
+## Archive Shelf
 
-Some older repositories stay public as references, experiments, or maintenance-mode tools. They are still useful, but not the main story of this profile.
+Older public repos that still have reference value, but are not the center of the profile:
 
 - [kiku-dist](https://github.com/kiku-jw/kiku-dist)
 - [fynx](https://github.com/kiku-jw/fynx)
