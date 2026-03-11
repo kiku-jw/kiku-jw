@@ -1,11 +1,16 @@
 <h1 align="center">Nick</h1>
 
 <p align="center">
-  <strong>AI product builder focused on practical tools, agent workflows, and small systems that ship.</strong>
+  <strong>We build simple tools for data analysis and automation.</strong><br>
+  Turn messy inputs into usable data.
 </p>
 
 <p align="center">
-  <a href="https://kikuai.dev">site</a>
+  <a href="https://github.com/kiku-jw">github</a>
+  ·
+  <a href="https://kikuai.dev">kikuai.dev</a>
+  ·
+  <a href="https://patas.app">patas.app</a>
   ·
   <a href="https://t.me/kiku_ai">blog</a>
   ·
@@ -13,37 +18,55 @@
 </p>
 
 ```text
-build > products, automation, infrastructure
-write > notes, experiments, shipping logs
-music > side-channel creative output
+csv / excel / json
+tickets / issues / chats
+calls / voice messages / logs
+          ↓
+clean -> classify -> dedupe -> summarize -> automate
 ```
 
-## Flagship Projects
+## What I Automate
 
-| Project | What it is |
+- Spam / not-spam classification in tables, forums, and messengers
+- Ticket, email, GitHub issue, and inbound request triage
+- CSV / Excel / JSON cleanup before import
+- Duplicate and junk detection in large exports
+- Telegram chat parsing and workflow automation
+- Call and voice-message transcription with summaries
+- Changelog, release notes, and change-summary generation
+- Reports built from logs, spreadsheets, and conversations
+
+## Stack
+
+`Python` · `TypeScript` · `Rust` · `Golang`
+
+## Selected Repositories
+
+| Repo | Focus |
 | --- | --- |
-| [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS with history, search, and NotebookLM export. |
-| [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for HTTP APIs and LLM calls with retries, cache, and cost control. |
-| [masker](https://github.com/kiku-jw/masker) | PII redaction API for sanitizing data before sending it to LLMs. |
-| [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleaner for removing headers, footers, and other text noise. |
-| [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer that extracts structured data from chart images. |
-| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for planning, execution, and human control. |
+| [DocStripper](https://github.com/kiku-jw/DocStripper) | Remove headers, footers, and text noise from messy documents before downstream use. |
+| [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | Extract structured data from chart images. |
+| [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for API and LLM-heavy workflows. |
+| [masker](https://github.com/kiku-jw/masker) | Redact sensitive data before sending it into AI systems. |
+| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for execution and human control. |
+| [thread-router](https://github.com/kiku-jw/thread-router) | Route Telegram forum threads into structured workflows. |
+| [session-to-post](https://github.com/kiku-jw/session-to-post) | Turn coding sessions into usable development notes and drafts. |
+| [routellm](https://github.com/kiku-jw/routellm) | Route LLM requests with profile-based cost, latency, and fallback control. |
+| [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) | Research toolkit for scoring events and replaying simulation scenarios. |
+| [polybudget-sim](https://github.com/kiku-jw/polybudget-sim) | Simulation-first CLI for analyzing public prediction-market traders. |
 
-## Systems and Research
+## Products
 
-| Track | Selected repos |
-| --- | --- |
-| Agent workflows | [session-to-post](https://github.com/kiku-jw/session-to-post), [thread-router](https://github.com/kiku-jw/thread-router), [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) |
-| AI infrastructure | [routellm](https://github.com/kiku-jw/routellm), [reliapi](https://github.com/kiku-jw/reliapi), [masker](https://github.com/kiku-jw/masker) |
-| Research tooling | [polybudget-sim](https://github.com/kiku-jw/polybudget-sim), [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) |
-| Small utilities | [site-blocker](https://github.com/kiku-jw/site-blocker), [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix), [github-star-remover](https://github.com/kiku-jw/github-star-remover) |
+- [KikuAI](https://kikuai.dev) — simple tools for data analysis and automation
+- [PATAS](https://patas.app) — pattern search in large datasets
 
-## Archive Shelf
+## Writing and Side Work
 
-Older public repos that still have reference value, but are not the center of the profile:
+- Blog: [t.me/kiku_ai](https://t.me/kiku_ai)
+- Music: [suno.com/@kiku_jw](https://suno.com/@kiku_jw)
 
-- [kiku-dist](https://github.com/kiku-jw/kiku-dist)
-- [fynx](https://github.com/kiku-jw/fynx)
-- [DriftGuard](https://github.com/kiku-jw/DriftGuard)
-- [kikuai-blog](https://github.com/kiku-jw/kikuai-blog)
-- [kyuva](https://github.com/kiku-jw/kyuva)
+## If You Have a Messy Process
+
+If your team manually sorts messages, spreadsheets, logs, or exported data, send me a sample.
+
+I can usually tell pretty quickly whether it should be automated and what the cleanest approach would be.
