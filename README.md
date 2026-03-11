@@ -34,10 +34,7 @@
 | Tool | What it is |
 | --- | --- |
 | [awesome-ai-skills-by-kiku](https://github.com/kiku-jw/awesome-ai-skills-by-kiku) | Curated list of public AI workflow skills with descriptions and use cases. |
-| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for planning, execution, and human control. |
-| [session-to-post](https://github.com/kiku-jw/session-to-post) | Turn coding sessions into usable development notes and drafts. |
 | [thread-router](https://github.com/kiku-jw/thread-router) | Route Telegram forum threads into structured workflows. |
-| [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle) | Turn a loose PRD into an agent-ready implementation bundle. |
 | [site-blocker](https://github.com/kiku-jw/site-blocker) | Host-level website blocker for macOS and Linux with a long default lock window. |
 | [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) | Practical CrossOver fix for the PEAK mouse input bug on macOS. |
 | [github-star-remover](https://github.com/kiku-jw/github-star-remover) | Small CLI tool for bulk GitHub star cleanup. |
