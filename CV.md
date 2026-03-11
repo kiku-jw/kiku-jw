@@ -113,3 +113,13 @@ MC SIHE KNU
 - Russian — native
 - English — professional working
 - Japanese — elementary
+
+## Recruiter / ATS Keywords
+
+Common role matches:
+
+`AI Automation Engineer` · `Applied AI Engineer` · `Automation Engineer` · `Full-stack Product Engineer` · `Backend Engineer` · `Python Engineer` · `Data Automation Engineer` · `Product Engineer`
+
+Search keywords:
+
+`Python` · `TypeScript` · `Rust` · `Golang` · `FastAPI` · `Node.js` · `Backend APIs` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Data Processing` · `CSV` · `Excel` · `JSON` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Observability` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Telegram Automation` · `Transcription` · `Summarization`
