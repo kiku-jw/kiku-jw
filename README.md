@@ -11,14 +11,12 @@
   ·
   <a href="./CV.md">cv</a>
   ·
-  <a href="https://github.com/kiku-jw/awesome-ai-skills-by-kiku">ai skills</a>
-  ·
   <a href="https://t.me/kiku_ai">blog</a>
   ·
   <a href="https://suno.com/@kiku_jw">music</a>
 </p>
 
-## Flagship Projects
+## Projects
 
 | Project | What it is |
 | --- | --- |
@@ -31,10 +29,11 @@
 | [routellm](https://github.com/kiku-jw/routellm) | Profile-based LLM router with cost, latency, and fallback-aware model selection. |
 | [kikuai-blog](https://github.com/kiku-jw/kikuai-blog) | Public blog pipeline and publishing repo for the KikuAI build diary and project posts. |
 
-## Small Tools
+## Tools
 
 | Tool | What it is |
 | --- | --- |
+| [awesome-ai-skills-by-kiku](https://github.com/kiku-jw/awesome-ai-skills-by-kiku) | Curated list of public AI workflow skills with descriptions and use cases. |
 | [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for planning, execution, and human control. |
 | [session-to-post](https://github.com/kiku-jw/session-to-post) | Turn coding sessions into usable development notes and drafts. |
 | [thread-router](https://github.com/kiku-jw/thread-router) | Route Telegram forum threads into structured workflows. |
@@ -43,9 +42,7 @@
 | [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) | Practical CrossOver fix for the PEAK mouse input bug on macOS. |
 | [github-star-remover](https://github.com/kiku-jw/github-star-remover) | Small CLI tool for bulk GitHub star cleanup. |
 
-## Archive Shelf
-
-Older public repos that still have reference value, but are not the center of the profile:
+## Archive
 
 - [polybudget-sim](https://github.com/kiku-jw/polybudget-sim) — simulation-first CLI for analyzing public prediction-market traders.
 - [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) — dataset-first toolkit for scoring market events and replaying paper-trading scenarios.
