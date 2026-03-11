@@ -20,7 +20,7 @@
 
 | Project | What it is |
 | --- | --- |
-| [PATAS](https://patas.app) | Pattern search in large datasets. |
+| [PATAS](https://patas.app) | Pattern discovery for recurring commercial spam campaigns in large message datasets. |
 | [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS with history, search, and NotebookLM export. |
 | [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleaner for removing headers, footers, and other text noise. |
 | [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer that extracts structured data from chart images. |
