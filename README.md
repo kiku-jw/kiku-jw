@@ -44,6 +44,7 @@
 - [polybudget-sim](https://github.com/kiku-jw/polybudget-sim) — simulation-first CLI for analyzing public prediction-market traders.
 - [market-signal-lab](https://github.com/kiku-jw/market-signal-lab) — dataset-first toolkit for scoring market events and replaying paper-trading scenarios.
 - [kiku-dist](https://github.com/kiku-jw/kiku-dist) — older distribution and packaging repo from the KikuAI toolchain.
+- [spatial-scene-api](https://github.com/kiku-jw/spatial-scene-api) — parked FastAPI prototype for deterministic image-to-parallax MP4 rendering.
 - [fynx](https://github.com/kiku-jw/fynx) — earlier experiment kept as a public reference.
 - [DriftGuard](https://github.com/kiku-jw/DriftGuard) — older public reliability / monitoring experiment.
 - [kyuva](https://github.com/kiku-jw/kyuva) — archived macOS teleprompter project.
