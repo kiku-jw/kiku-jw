@@ -1,142 +1,109 @@
 # Mykyta (Nick) Dudnichenko
 
-AI Automation Engineer / Full-stack Product Engineer
+Software Engineer / AI Automation Engineer
 
-Ukraine (Kyiv timezone)  
+Ukraine (Kyiv timezone)
+
 [LinkedIn](https://www.linkedin.com/in/kiku-jw/) · [GitHub](https://github.com/kiku-jw) · [KikuAI](https://kikuai.dev) · [PATAS](https://patas.app) · [Telegram](https://t.me/kiku_ai)
 
-## Summary
+## Profile
 
-I help teams automate repetitive digital operations and turn messy documents, messages, and data into usable outputs.
+Software engineer focused on Python, TypeScript, backend APIs, data processing, and AI-assisted workflow automation.
 
-Most of my public and commercial work sits at the intersection of data cleanup, classification, workflow automation, and AI-assisted operations:
+Since 2020, I have worked on moderation operations, message processing, spam classification, data cleanup, structured extraction, summarization, and operator-facing automation tools. I usually build practical end-to-end systems: ingestion, parsing, cleanup, classification, API layer, deployment, monitoring, and documentation.
 
-- spam / not-spam detection in chats, forums, and messaging workflows
-- ticket, email, issue, and inbound request triage
-- CSV / Excel / JSON cleanup before import
-- duplicate and junk detection in large data exports
-- Telegram workflow parsing and routing
-- call, voice-message, and transcript summarization workflows
-- changelog, release-note, and report generation from logs and conversations
-- internal AI assistants and operator-facing automation tools
+I am interested in roles where software engineering and process automation meet: internal tools, AI automation, backend services, data workflows, document/message processing, and operational systems.
 
-I usually build the full flow end-to-end: ingestion, cleanup, extraction, classification, summarization, APIs, deployment, and operational tooling.
+## Target Roles
 
-## Core Skills
+- Software Engineer
+- AI Automation Engineer
+- Python / TypeScript Developer
+- Backend Engineer
+- Internal Tools Engineer
+- Workflow Automation Engineer
+- Product Engineer
 
-- Python, TypeScript, JavaScript
-- Swift and Go for focused tools and experiments
-- FastAPI, Node.js, backend APIs
-- LLM integration, RAG, semantic search, moderation workflows
-- AI workflow automation, structured extraction, summarization
-- Data cleanup, extraction, deduplication, and operational reporting
-- PostgreSQL, Redis, schema design
-- Docker, CI/CD, observability, production hardening
-- API security, rate limiting, PII masking, webhook validation
-- Custom AI assistants and image-generation workflows
+## Technical Skills
+
+- Languages: Python, TypeScript, JavaScript
+- Additional languages: Swift and Go for focused tools and experiments
+- Backend: FastAPI, Node.js, REST APIs, PostgreSQL, Redis
+- Frontend/product surfaces: React, HTML/CSS, browser-facing tools
+- AI/LLM: LLM integrations, RAG, semantic search, classification, summarization, structured extraction
+- Automation: Telegram workflows, GitHub workflows, CSV/Excel/JSON processing, document cleanup, report generation
+- Operations: Docker, CI/CD, Linux servers, Vercel, Hetzner, logging, monitoring, environment management
+- Security basics: API security, rate limiting, PII masking, webhook validation, secret management
 
 ## Experience
 
-### KikuAI
-Founder / Product Engineer  
-November 2025 - Present
-
-- Build simple tools for AI-assisted data analysis and automation.
-- Design systems that turn messy operational inputs into clean, usable outputs.
-- Ship products and internal tooling across backend APIs, AI pipelines, workflow orchestration, and product packaging.
-- Focus areas include data cleanup, document processing, message triage, structured extraction, summarization, and automation-first product design.
-
 ### Independent Consultant (NDA)
-Content Moderation and Workflow Automation  
+AI Automation / Workflow Automation
+
 January 2020 - Present
 
-- Process abuse reports and moderation queues for public channels, groups, and bots.
-- Built and improved automated spam detection and classification workflows.
-- Used AI-assisted classification, semantic search, and review tooling to reduce manual moderation work.
+- Built and improved automation around moderation queues for public channels, groups, and bots.
+- Designed spam / not-spam classification workflows using rules, semantic search, and AI-assisted review.
 - Turned message streams and operational data into structured queues, summaries, and decision-support workflows.
+- Built utilities for data cleanup, deduplication, import/export preparation, and operational reporting.
+- Worked under NDA; public details are limited, but public portfolio projects show related patterns and implementation style.
+
+### KikuAI
+Product Engineer / Public Portfolio
+
+November 2025 - Present
+
+- Build public AI-assisted tools for data analysis, document processing, workflow automation, and research support.
+- Design small product workflows that turn messy inputs into reviewable, structured outputs.
+- Ship backend APIs, browser-facing tools, documentation, demos, and reusable automation patterns.
+- Focus areas include structured extraction, transcript review, data cleanup, chart digitization, issue workflows, and automation-first product design.
 
 ### Hacken Cybersecurity Services
-Community Development Volunteer / Outside Marketer  
+Community Development / Operations
+
 April 2020 - September 2020
 
-- Supported growth and operations for Hacken.AI, a personal cybersecurity product.
-- Managed AMAs, user support, announcements, and community communication workflows.
-- Helped grow an active user community and handled high-volume Telegram and Twitter interactions.
+- Supported operations and community workflows for Hacken.AI, a personal cybersecurity product.
+- Managed AMAs, announcements, support requests, and high-volume Telegram/Twitter communication.
+- Worked closely with cybersecurity product operations, user feedback, and public-facing support processes.
 
 ### Golden Borodutch
-Investment Analyst  
+Investment Analyst
+
 January 2018 - March 2020
 
 - Wrote public due diligence and analytical reviews for startup and crypto projects.
-- Analyzed technical materials, risk factors, and project quality for a broad reader base.
-- Built a strong foundation in structured research, synthesis, and critical analysis under uncertainty.
+- Analyzed technical materials, risk factors, business models, and product quality for a broad reader base.
+- Built a foundation in structured research, critical analysis, and concise written reporting under uncertainty.
 
-## Selected Projects
+## Selected Project Evidence
 
-### PATAS
-[patas.app](https://patas.app)
-
-Pattern search in large datasets.
-
-### KikuAI Long Video Transcriber
-[kikuai.dev/translator-ready-srt](https://kikuai.dev/translator-ready-srt/)
-
-AI-assisted workflow for turning long-form content into structured transcript review output.
-
-### spatial-scene-api
-[github.com/kiku-jw/spatial-scene-api](https://github.com/kiku-jw/spatial-scene-api)
-
-Parked FastAPI prototype for deterministic image-to-parallax MP4 rendering.
-
-### ClipStash
-[github.com/kiku-jw/ClipStash](https://github.com/kiku-jw/ClipStash)
-
-Privacy-first clipboard manager for macOS with history, search, and NotebookLM export.
-
-### DocStripper
-[github.com/kiku-jw/DocStripper](https://github.com/kiku-jw/DocStripper)
-
-Batch document cleaner for removing headers, footers, and text noise before downstream use.
-
-### Chart2CSV
-[github.com/kiku-jw/Chart2CSV](https://github.com/kiku-jw/Chart2CSV)
-
-AI-assisted chart digitizer that extracts structured data from chart images.
-
-### reliapi
-[github.com/kiku-jw/reliapi](https://github.com/kiku-jw/reliapi)
-
-Reliability layer for API and LLM-heavy workflows with retries, cache, and operational control.
-
-### masker
-[github.com/kiku-jw/masker](https://github.com/kiku-jw/masker)
-
-PII redaction API for sanitizing data before sending it into AI systems.
-
-### issue-control-loop
-[github.com/kiku-jw/issue-control-loop](https://github.com/kiku-jw/issue-control-loop)
-
-Deterministic GitHub Issue workflow for execution and human control.
+| Project | What it shows |
+| --- | --- |
+| [PATAS](https://patas.app) | Pattern discovery for recurring commercial spam campaigns in large datasets. Shows data analysis, classification, and product thinking. |
+| [KikuAI Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | AI-assisted transcript workflow for turning long-form content into structured review output. Shows applied AI workflow design and browser-facing product delivery. |
+| [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS. Shows local app development, user workflow design, and practical utility tooling. |
+| [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleanup tool. Shows document processing, text cleanup, and automation around repetitive office workflows. |
+| [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer. Shows structured extraction from visual input and data preparation for downstream use. |
+| [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for API and LLM-heavy workflows. Shows retries, cache, fallback handling, and operational control. |
+| [masker](https://github.com/kiku-jw/masker) | PII redaction API for AI workflows. Shows privacy-aware processing and secure handling of sensitive text. |
+| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for human-agent execution. Shows structured automation, process design, and developer workflow tooling. |
 
 ## Education
 
-Electronics Technician-Designer  
-MC SIHE KNU  
+Electronics Technician-Designer
+
+MC SIHE KNU
+
 2014 - 2018
 
 ## Languages
 
-- Ukrainian — native
-- Russian — native
-- English — professional working
-- Japanese — elementary
+- Ukrainian: native
+- Russian: native
+- English: professional working
+- Japanese: elementary
 
-## Recruiter / ATS Keywords
+## Search Keywords
 
-Common role matches:
-
-`AI Automation Engineer` · `Applied AI Engineer` · `Automation Engineer` · `Full-stack Product Engineer` · `Backend Engineer` · `Python Engineer` · `Data Automation Engineer` · `Product Engineer`
-
-Search keywords:
-
-`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Observability` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Telegram Automation`
+`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `React` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Linux` · `Vercel` · `Hetzner` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `Document Processing` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation`
