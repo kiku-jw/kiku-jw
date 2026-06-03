@@ -7,26 +7,28 @@ Ukraine (Kyiv timezone)
 
 ## Summary
 
-I help companies automate repetitive digital operations and turn messy inputs into usable data.
+I help teams automate repetitive digital operations and turn messy documents, messages, and data into usable outputs.
 
-Most of my work sits at the intersection of data cleanup, classification, workflow automation, and AI-assisted operations:
+Most of my public and commercial work sits at the intersection of data cleanup, classification, workflow automation, and AI-assisted operations:
 
 - spam / not-spam detection in chats, forums, and messaging workflows
 - ticket, email, issue, and inbound request triage
 - CSV / Excel / JSON cleanup before import
 - duplicate and junk detection in large data exports
 - Telegram workflow parsing and routing
-- call and voice-message transcription with summaries
+- call, voice-message, and transcript summarization workflows
 - changelog, release-note, and report generation from logs and conversations
 - internal AI assistants and operator-facing automation tools
 
-I usually build the full flow end-to-end: ingestion, cleanup, extraction, classification, summaries, APIs, deployment, and operational tooling.
+I usually build the full flow end-to-end: ingestion, cleanup, extraction, classification, summarization, APIs, deployment, and operational tooling.
 
 ## Core Skills
 
-- Python, TypeScript, Rust, Golang
+- Python, TypeScript, JavaScript
+- Swift and Go for focused tools and experiments
 - FastAPI, Node.js, backend APIs
 - LLM integration, RAG, semantic search, moderation workflows
+- AI workflow automation, structured extraction, summarization
 - Data cleanup, extraction, deduplication, and operational reporting
 - PostgreSQL, Redis, schema design
 - Docker, CI/CD, observability, production hardening
@@ -39,10 +41,10 @@ I usually build the full flow end-to-end: ingestion, cleanup, extraction, classi
 Founder / Product Engineer  
 November 2025 - Present
 
-- Build simple tools for data analysis and automation.
+- Build simple tools for AI-assisted data analysis and automation.
 - Design systems that turn messy operational inputs into clean, usable outputs.
 - Ship products and internal tooling across backend APIs, AI pipelines, workflow orchestration, and product packaging.
-- Focus areas include data cleanup, document processing, message triage, structured extraction, and automation-first product design.
+- Focus areas include data cleanup, document processing, message triage, structured extraction, summarization, and automation-first product design.
 
 ### Independent Consultant (NDA)
 Content Moderation and Workflow Automation  
@@ -75,6 +77,21 @@ January 2018 - March 2020
 [patas.app](https://patas.app)
 
 Pattern search in large datasets.
+
+### KikuAI Long Video Transcriber
+[kikuai.dev/translator-ready-srt](https://kikuai.dev/translator-ready-srt/)
+
+AI-assisted workflow for turning long-form content into structured transcript review output.
+
+### spatial-scene-api
+[github.com/kiku-jw/spatial-scene-api](https://github.com/kiku-jw/spatial-scene-api)
+
+Parked FastAPI prototype for deterministic image-to-parallax MP4 rendering.
+
+### ClipStash
+[github.com/kiku-jw/ClipStash](https://github.com/kiku-jw/ClipStash)
+
+Privacy-first clipboard manager for macOS with history, search, and NotebookLM export.
 
 ### DocStripper
 [github.com/kiku-jw/DocStripper](https://github.com/kiku-jw/DocStripper)
@@ -122,4 +139,4 @@ Common role matches:
 
 Search keywords:
 
-`Python` · `TypeScript` · `Rust` · `Golang` · `FastAPI` · `Node.js` · `Backend APIs` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Data Processing` · `CSV` · `Excel` · `JSON` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Observability` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Telegram Automation` · `Transcription` · `Summarization`
+`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Observability` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Telegram Automation`
