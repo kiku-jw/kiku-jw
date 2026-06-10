@@ -56,7 +56,6 @@ November 2025 - Present
 - Build public AI-assisted tools for data analysis, document processing, workflow automation, and research support.
 - Design small product workflows that turn messy inputs into reviewable, structured outputs.
 - Ship backend APIs, browser-facing tools, documentation, demos, and reusable automation patterns.
-- Build browser-local, privacy-respecting file workflows with preview-first UX, including XLIFF repair reports and translator-ready subtitle packages.
 - Focus areas include structured extraction, transcript review, data cleanup, chart digitization, issue workflows, and automation-first product design.
 
 ### Hacken Cybersecurity Services
@@ -81,12 +80,12 @@ January 2018 - March 2020
 
 | Project | What it shows |
 | --- | --- |
-| [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/) | Browser-local workflow for diagnosing and repairing Articulate XLIFF import failures. Shows product validation, file processing, privacy-aware UX, and practical automation. |
 | [PATAS](https://patas.app) | Pattern discovery for recurring commercial spam campaigns in large datasets. Shows data analysis, classification, and product thinking. |
 | [KikuAI Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | AI-assisted transcript workflow for turning long-form content into structured review output. Shows applied AI workflow design and browser-facing product delivery. |
 | [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS. Shows local app development, user workflow design, and practical utility tooling. |
 | [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleanup tool. Shows document processing, text cleanup, and automation around repetitive office workflows. |
 | [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer. Shows structured extraction from visual input and data preparation for downstream use. |
+| [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/) | Small browser-local diagnostic for Articulate XLIFF import failures. Shows narrow product validation and privacy-aware file handling. |
 | [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for API and LLM-heavy workflows. Shows retries, cache, fallback handling, and operational control. |
 | [masker](https://github.com/kiku-jw/masker) | PII redaction API for AI workflows. Shows privacy-aware processing and secure handling of sensitive text. |
 | [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for human-agent execution. Shows structured automation, process design, and developer workflow tooling. |
