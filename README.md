@@ -26,12 +26,12 @@
 
 | Project | What it is |
 | --- | --- |
-| [KikuAI](https://kikuai.dev) | Product lab for small useful AI tools with working previews and practical build notes. |
+| [KikuAI](https://kikuai.dev) | Product lab for browser-local AI/file tools with working previews, practical build notes, and paid-artifact experiments. |
+| [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/) | Browser-local repair/report workflow for diagnosing blocked Articulate Rise/Storyline XLIFF imports. |
 | [PATAS](https://patas.app) | Pattern discovery for recurring commercial spam campaigns in large message datasets. |
 | [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS with history, search, and NotebookLM export. |
 | [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer that extracts structured data from chart images. |
-| [Long video transcriber](https://kikuai.dev/translator-ready-srt/) | AI-assisted transcript workflow for turning long-form content into structured review output. |
-| [spatial-scene-api](https://github.com/kiku-jw/spatial-scene-api) | Parked FastAPI prototype for deterministic image-to-parallax MP4 rendering. |
+| [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | AI-assisted transcript workflow for turning long-form content into structured review output. |
 
 ## AI Workflow Tools
 
@@ -52,6 +52,7 @@
 | [routellm](https://github.com/kiku-jw/routellm) | Profile-based LLM router with cost, latency, and fallback-aware model selection. |
 | [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleaner for removing headers, footers, and other text noise. |
 | [thread-router](https://github.com/kiku-jw/thread-router) | Route Telegram forum threads into structured workflows. |
+| [spatial-scene-api](https://github.com/kiku-jw/spatial-scene-api) | FastAPI prototype for deterministic image-to-parallax MP4 rendering. |
 | [site-blocker](https://github.com/kiku-jw/site-blocker) | Host-level website blocker for macOS and Linux with a long default lock window. |
 | [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) | Practical CrossOver fix for the PEAK mouse input bug on macOS. |
 
