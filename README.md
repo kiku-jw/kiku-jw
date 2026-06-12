@@ -30,17 +30,16 @@ Private support, research, and operations repositories are intentionally omitted
 | Project | What it is |
 | --- | --- |
 | [KikuAI](https://kikuai.dev) | Product lab for browser-local file, data, and AI workflow tools with working public surfaces. |
-| [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | Browser-local long-video transcript and subtitle workflow in active technical validation. |
-| [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/) | Browser-local diagnostic and safe-repair workflow for Rise and Storyline XLF/XLIFF import failures. |
-| [Revenue Link Health Checker](https://kikuai.dev/revenue-link-health-checker/) | Browser-local risk report for affiliate, marketplace, malformed, duplicate, and context-light recommendation links. |
-| [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/) | Browser-local Merchant feed and Shopify export drift checker for validation traffic. |
+| [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | Browser-local long-video transcript and subtitle workflow in active technical validation. [Code](https://github.com/KikuAI-Lab/long-video-transcriber). |
+| [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/) | Browser-local diagnostic and safe-repair workflow for Rise and Storyline XLF/XLIFF import failures. [Code](https://github.com/KikuAI-Lab/articulate-xliff-import-doctor). |
+| [Revenue Link Health Checker](https://kikuai.dev/revenue-link-health-checker/) | Browser-local risk report for affiliate, marketplace, malformed, duplicate, and context-light recommendation links. [Code](https://github.com/KikuAI-Lab/revenue-link-health-checker). |
+| [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/) | Browser-local Merchant feed and Shopify export drift checker for validation traffic. [Code](https://github.com/KikuAI-Lab/merchant-feed-leak-checker). |
 | [PATAS Spam Pattern Report](https://kikuai.dev/tools/spam-pattern-report/) | Browser-local report for repeated spam patterns in user-provided message logs. |
 
 ## KikuAI Browser-Local Tools
 
 | Tool | What it does |
 | --- | --- |
-| [Spreadsheet / CSV Compare](https://kikuai.dev/tools/csv-compare/) | Compares two CSV files and exports added, removed, changed, and summary reports. |
 | [Local Text / CSV Masker](https://kikuai.dev/tools/local-data-masker/) | Masks obvious personal values in text or CSV before sharing logs or snippets. |
 | [DocStripper Visible Text Cleanup](https://kikuai.dev/tools/document-text-cleaner/) | Cleans noisy copied or PDF-extracted text by removing repeated headers, footers, and line noise. |
 | [Spatial Scene](https://kikuai.dev/tools/spatial-scene/) | Turns one image into a browser-local spatial-looking motion clip for validation testing. |
