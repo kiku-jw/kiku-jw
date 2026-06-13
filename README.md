@@ -1,59 +1,114 @@
 <p align="center">
-  <img src="./assets/kikuai-work-map.svg" alt="KikuAI work map: messy inputs become useful artifacts" width="100%">
+  <img src="./assets/kikuai-header.png" alt="KikuAI logo" width="100%">
 </p>
 
 <h1 align="center">Nick</h1>
 
 <p align="center">
-  I build small useful tools for files, transcripts, feeds, links, logs, and agent workflows.
-  The point is not the stack. The point is whether someone can open the tool, get a useful artifact, and decide with evidence.
+  JW · INFJ-A · AI Dev
+</p>
+
+<p align="center">
+  Indie hacker with minimalist taste. I like tools with one button for one concrete pain.
 </p>
 
 <p align="center">
   <a href="https://kikuai.dev">kikuai.dev</a>
   |
-  <a href="https://kikuai.dev/tools/">all tools</a>
+  <a href="https://kikuai.dev/tools/">tools</a>
   |
-  <a href="https://kikuai.dev/open-source/">code references</a>
+  <a href="https://kikuai.dev/open-source/">code</a>
   |
   <a href="https://www.linkedin.com/in/kiku-jw/">linkedin</a>
 </p>
 
-## Open By Job
+## Sparks
 
-| If this is the problem | Open this | You should get |
-| --- | --- | --- |
-| Articulate rejects a translated XLF/XLIFF file | [XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/) | Diagnosis, safe repair, import report |
-| A long video needs private subtitles or transcript | [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | Transcript, SRT, VTT |
-| A recommendation page may leak revenue through broken links | [Revenue Link Health Checker](https://kikuai.dev/revenue-link-health-checker/) | Local risk report |
-| Merchant feed or Shopify export data looks wrong | [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/) | Feed drift and leak report |
-| Spam logs need repeated patterns, not one-message guesses | [Spam Pattern Report](https://kikuai.dev/tools/spam-pattern-report/) | Pattern groups and review rules |
-| Copied/PDF text is noisy before reuse or AI prompting | [Document Text Cleaner](https://kikuai.dev/tools/document-text-cleaner/) | Clean text and cleanup report |
-| Logs or CSV need obvious values masked before sharing | [Local Text / CSV Masker](https://kikuai.dev/tools/local-data-masker/) | Masked copy and finding report |
+**PATAS / TAS**
 
-## What I Optimize For
+`spam logs -> classification -> review rules`
 
-| Principle | What it means in practice |
-| --- | --- |
-| Useful before impressive | One input, one action, one artifact people can inspect. |
-| Browser-local when possible | Private files should stay on the user's device unless a product truly needs a server. |
-| Proof before expansion | Usage, exports, paid intent, and customer work beat vague roadmap energy. |
-| Agents need tools, not posture | A good product can become a deterministic backend, validator, repair step, or structured artifact source. |
+My first serious product line. $25k+ real-world proof. The MVP is live again with metrics. If a real customer appears, this is the one I can get excited about fast.
 
-## Working Repos
+**Long Video Transcriber**
 
-| Area | Repos |
-| --- | --- |
-| Public KikuAI tools | [long-video-transcriber](https://github.com/KikuAI-Lab/long-video-transcriber), [articulate-xliff-import-doctor](https://github.com/KikuAI-Lab/articulate-xliff-import-doctor), [revenue-link-health-checker](https://github.com/KikuAI-Lab/revenue-link-health-checker), [merchant-feed-leak-checker](https://github.com/KikuAI-Lab/merchant-feed-leak-checker) |
-| Agent/workflow infrastructure | [agx-core](https://github.com/kiku-jw/agx-core), [codex-skills](https://github.com/kiku-jw/codex-skills), [agent-spec-bundle](https://github.com/kiku-jw/agent-spec-bundle), [issue-control-loop](https://github.com/kiku-jw/issue-control-loop), [session-to-post](https://github.com/kiku-jw/session-to-post) |
-| Practical utilities | [ClipStash](https://github.com/kiku-jw/ClipStash), [site-blocker](https://github.com/kiku-jw/site-blocker), [peak-crossover-mouse-fix](https://github.com/kiku-jw/peak-crossover-mouse-fix) |
+`long video/audio -> transcript -> SRT/VTT`
 
-<details>
-<summary>Archive and references</summary>
+Built because I transcribe long videos myself. Most alternatives break down on long files. MVP is live, waiting for usage signal before I spend serious energy.
 
-Earlier repos stay public when they still explain a useful direction: [Chart2CSV](https://github.com/kiku-jw/Chart2CSV), [DocStripper](https://github.com/kiku-jw/DocStripper), [Masker](https://github.com/kiku-jw/masker), [reliapi](https://github.com/kiku-jw/reliapi), [spatial-scene-api](https://github.com/kiku-jw/spatial-scene-api), [routellm](https://github.com/kiku-jw/routellm), [thread-router](https://github.com/kiku-jw/thread-router), [kyuva](https://github.com/kiku-jw/kyuva).
+**Congreg**
 
-</details>
+`JW territory work -> assignments -> control`
+
+Not a sales product. It makes my JW life easier, and that is why it matters.
+
+## Tools I Still Use
+
+**ClipStash**
+
+`clipboard history -> search -> reuse`
+
+Lightweight macOS clipboard manager. There are many alternatives, but most are too much. This one quietly works for me.
+
+**Kyuva**
+
+`talk script -> teleprompter -> delivery`
+
+macOS teleprompter I use for talks. It needs more work, especially cross-device sync, but the core use is real.
+
+## Dormant Ideas
+
+**Alilend**
+
+`marketplace products -> referral links -> channel posts`
+
+Affiliate/referral automation for AliExpress and other marketplaces. It stalled because distribution looked spammy before AI made content operations easier.
+
+**PolyBudget**
+
+`news signals -> market reaction -> trade idea`
+
+Prediction-market and exchange-news signal experiments. Interesting, but I do not understand the edge well enough yet.
+
+## Product Taste
+
+- one button
+- one painful job
+- browser-local when files are private
+- visible artifact before payment
+- customer signal before roadmap
+- money and real usage beat vague interest
+
+## KikuAI Shelf
+
+- [PATAS / Spam Pattern Report](https://kikuai.dev/tools/spam-pattern-report/)
+- [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/)
+- [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/)
+- [Revenue Link Health Checker](https://kikuai.dev/revenue-link-health-checker/)
+- [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/)
+- [Document Text Cleaner](https://kikuai.dev/tools/document-text-cleaner/)
+- [Local Text / CSV Masker](https://kikuai.dev/tools/local-data-masker/)
+
+## Agent Index
+
+```yaml
+identity: JW, INFJ-A, AI Dev
+style: minimalist indie hacker
+product_taste: one-button tools for one concrete pain
+strongest_proof: PATAS/TAS, $25k+ spam classification work
+current_validation:
+  - PATAS / Spam Pattern Report
+  - Long Video Transcriber
+  - KikuAI tool shelf
+personal_use_anchors:
+  - Congreg
+  - ClipStash
+  - Kyuva
+dormant_interest:
+  - Alilend
+  - PolyBudget
+searching_for: recurring pain, clear buyer, first money path
+```
 
 ## Elsewhere
 
