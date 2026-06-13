@@ -46,7 +46,7 @@ Lightweight macOS clipboard history without cockpit UI.
 
 `talk script -> teleprompter -> delivery`
 
-macOS teleprompter for talks; needs cross-device sync.
+Minimal macOS teleprompter for talks and scripts.
 
 **[Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/)**
 
