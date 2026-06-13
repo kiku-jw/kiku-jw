@@ -28,43 +28,43 @@
 
 `spam logs -> classification -> review rules`
 
-First serious product line. $25k+ real-world proof. The MVP is live again with metrics; a real customer signal would probably wake this one up fast.
+$25k+ proof from real spam-classification work. MVP live again with metrics.
 
 **[Long Video Transcriber](https://kikuai.dev/translator-ready-srt/)**
 
 `long video/audio -> transcript -> SRT/VTT`
 
-Built because I transcribe long videos myself. Most alternatives are weak on long files. MVP is live, waiting for usage signal before I put serious energy into it.
+Browser-local MVP for long files; waiting for usage signal.
 
 **[ClipStash](https://github.com/kiku-jw/ClipStash)**
 
 `clipboard history -> search -> reuse`
 
-Lightweight macOS clipboard manager. Too many clipboard apps try to become a cockpit. I wanted the small version that quietly works.
+Lightweight macOS clipboard history without cockpit UI.
 
 **[Kyuva](https://github.com/kiku-jw/kyuva)**
 
 `talk script -> teleprompter -> delivery`
 
-macOS teleprompter I use for talks. The core use is real; cross-device sync is the missing piece.
+macOS teleprompter for talks; needs cross-device sync.
 
 **[Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/)**
 
 `translated XLF -> diagnosis -> safe repair`
 
-Browser-local checker for Articulate import failures. It exists because broken translation files are a narrow, annoying, expensive kind of mess.
+Browser-local checker for broken Articulate translation imports.
 
 **[Revenue Link Health Checker](https://kikuai.dev/revenue-link-health-checker/)**
 
 `CSV / HTML / Markdown -> monetized link risk report`
 
-Small QA tool for affiliate and recommendation pages before publishing.
+QA report for affiliate and recommendation links before publishing.
 
 **[Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/)**
 
 `Merchant feed / Shopify export -> drift report`
 
-Browser-local feed audit for product-data leaks, missing rows, and obvious listing drift.
+Browser-local feed audit for product-data leaks and listing drift.
 
 ## Elsewhere
 
