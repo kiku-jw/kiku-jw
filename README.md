@@ -22,93 +22,49 @@
   <a href="https://www.linkedin.com/in/kiku-jw/">linkedin</a>
 </p>
 
-## Sparks
+## Projects
 
-**PATAS / TAS**
+**[PATAS / Spam Pattern Report](https://kikuai.dev/tools/spam-pattern-report/)**
 
 `spam logs -> classification -> review rules`
 
-My first serious product line. $25k+ real-world proof. The MVP is live again with metrics. If a real customer appears, this is the one I can get excited about fast.
+First serious product line. $25k+ real-world proof. The MVP is live again with metrics; a real customer signal would probably wake this one up fast.
 
-**Long Video Transcriber**
+**[Long Video Transcriber](https://kikuai.dev/translator-ready-srt/)**
 
 `long video/audio -> transcript -> SRT/VTT`
 
-Built because I transcribe long videos myself. Most alternatives break down on long files. MVP is live, waiting for usage signal before I spend serious energy.
+Built because I transcribe long videos myself. Most alternatives are weak on long files. MVP is live, waiting for usage signal before I put serious energy into it.
 
-**Congreg**
-
-`JW territory work -> assignments -> control`
-
-Not a sales product. It makes my JW life easier, and that is why it matters.
-
-## Tools I Still Use
-
-**ClipStash**
+**[ClipStash](https://github.com/kiku-jw/ClipStash)**
 
 `clipboard history -> search -> reuse`
 
-Lightweight macOS clipboard manager. There are many alternatives, but most are too much. This one quietly works for me.
+Lightweight macOS clipboard manager. Too many clipboard apps try to become a cockpit. I wanted the small version that quietly works.
 
-**Kyuva**
+**[Kyuva](https://github.com/kiku-jw/kyuva)**
 
 `talk script -> teleprompter -> delivery`
 
-macOS teleprompter I use for talks. It needs more work, especially cross-device sync, but the core use is real.
+macOS teleprompter I use for talks. The core use is real; cross-device sync is the missing piece.
 
-## Dormant Ideas
+**[Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/)**
 
-**Alilend**
+`translated XLF -> diagnosis -> safe repair`
 
-`marketplace products -> referral links -> channel posts`
+Browser-local checker for Articulate import failures. It exists because broken translation files are a narrow, annoying, expensive kind of mess.
 
-Affiliate/referral automation for AliExpress and other marketplaces. It stalled because distribution looked spammy before AI made content operations easier.
+**[Revenue Link Health Checker](https://kikuai.dev/revenue-link-health-checker/)**
 
-**PolyBudget**
+`CSV / HTML / Markdown -> monetized link risk report`
 
-`news signals -> market reaction -> trade idea`
+Small QA tool for affiliate and recommendation pages before publishing.
 
-Prediction-market and exchange-news signal experiments. Interesting, but I do not understand the edge well enough yet.
+**[Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/)**
 
-## Product Taste
+`Merchant feed / Shopify export -> drift report`
 
-- one button
-- one painful job
-- browser-local when files are private
-- visible artifact before payment
-- customer signal before roadmap
-- money and real usage beat vague interest
-
-## KikuAI Shelf
-
-- [PATAS / Spam Pattern Report](https://kikuai.dev/tools/spam-pattern-report/)
-- [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/)
-- [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/)
-- [Revenue Link Health Checker](https://kikuai.dev/revenue-link-health-checker/)
-- [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/)
-- [Document Text Cleaner](https://kikuai.dev/tools/document-text-cleaner/)
-- [Local Text / CSV Masker](https://kikuai.dev/tools/local-data-masker/)
-
-## Agent Index
-
-```yaml
-identity: JW, INFJ-A, AI Dev
-style: minimalist indie hacker
-product_taste: one-button tools for one concrete pain
-strongest_proof: PATAS/TAS, $25k+ spam classification work
-current_validation:
-  - PATAS / Spam Pattern Report
-  - Long Video Transcriber
-  - KikuAI tool shelf
-personal_use_anchors:
-  - Congreg
-  - ClipStash
-  - Kyuva
-dormant_interest:
-  - Alilend
-  - PolyBudget
-searching_for: recurring pain, clear buyer, first money path
-```
+Browser-local feed audit for product-data leaks, missing rows, and obvious listing drift.
 
 ## Elsewhere
 
