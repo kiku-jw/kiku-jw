@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kikuai-header.png" alt="KikuAI logo" width="100%">
+  <img src="./assets/000564f9-49f0-43b3-8ac6-bd97fad05423.png" alt="KikuAI logo" width="100%">
 </p>
 
 <h1 align="center">Nick</h1>
