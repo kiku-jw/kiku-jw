@@ -65,3 +65,7 @@ state live outside this profile; this page is the public front door.
 ## Elsewhere
 
 [CV](./CV.md) · [Telegram blog](https://t.me/kiku_ai) · [Music](https://suno.com/@kiku_jw)
+
+## License
+
+No open-source license is granted for profile text or images unless a file says otherwise. See [LICENSE](LICENSE).
