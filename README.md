@@ -9,14 +9,18 @@
 </p>
 
 <p align="center">
+  <strong><a href="https://kikuai.dev/tools/">Open the tools catalog</a></strong>
+</p>
+
+<p align="center">
   <a href="https://kikuai.dev">kikuai.dev</a>
-  |
-  <a href="https://kikuai.dev/tools/">tools</a>
-  |
-  <a href="https://kikuai.dev/open-source/">open source</a>
-  |
+  ·
+  <a href="https://kikuai.dev/tools/">Examples</a>
+  ·
+  <a href="https://kikuai.dev/open-source/">Docs / open source</a>
+  ·
   <a href="./CV.md">CV</a>
-  |
+  ·
   <a href="https://www.linkedin.com/in/kiku-jw/">LinkedIn</a>
 </p>
 
