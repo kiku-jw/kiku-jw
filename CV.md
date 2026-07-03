@@ -4,15 +4,15 @@ Software Engineer / AI Automation Engineer
 
 Ukraine (Kyiv timezone)
 
-[LinkedIn](https://www.linkedin.com/in/kiku-jw/) · [GitHub](https://github.com/kiku-jw) · [KikuAI](https://kikuai.dev) · [PATAS](https://patas.app) · [Telegram](https://t.me/kiku_ai)
+[Email](mailto:hi@kikuai.dev) · [LinkedIn](https://www.linkedin.com/in/kiku-jw/) · [GitHub](https://github.com/kiku-jw) · [KikuAI](https://kikuai.dev) · [PATAS](https://patas.app) · [X/Twitter](https://x.com/kiku_JW) · [Telegram](https://t.me/kiku_ai)
 
 ## Profile
 
-Software engineer focused on Python, TypeScript, backend APIs, data processing, and AI-assisted workflow automation.
+Software engineer and product builder focused on KikuAI: practical AI-assisted tools, B2B SaaS/API products, backend services, data workflows, and operator-facing automation.
 
-Since 2020, I have worked on moderation operations, message processing, spam classification, data cleanup, structured extraction, summarization, and operator-facing automation tools. I usually build practical end-to-end systems: ingestion, parsing, cleanup, classification, API layer, deployment, monitoring, and documentation.
+My current work is centered on KikuAI products, especially PATAS: a B2B anti-spam pattern discovery system sold as SaaS and API. I build practical end-to-end systems: ingestion, parsing, cleanup, classification, API layer, billing/product packaging, deployment, monitoring, and documentation.
 
-I am interested in roles where software engineering and process automation meet: internal tools, AI automation, backend services, data workflows, document/message processing, and operational systems.
+I am interested in roles where software engineering, product ownership, and process automation meet: AI automation, backend/API products, internal tools, data workflows, document/message processing, and operational systems.
 
 ## Target Roles
 
@@ -20,6 +20,7 @@ I am interested in roles where software engineering and process automation meet:
 - AI Automation Engineer
 - Python / TypeScript Developer
 - Backend Engineer
+- B2B SaaS / API Product Engineer
 - Internal Tools Engineer
 - Workflow Automation Engineer
 - Product Engineer
@@ -37,26 +38,26 @@ I am interested in roles where software engineering and process automation meet:
 
 ## Experience
 
-### Independent Consultant (NDA)
-AI Automation / Workflow Automation
-
-January 2020 - Present
-
-- Built and improved automation around moderation queues for public channels, groups, and bots.
-- Designed spam / not-spam classification workflows using rules, semantic search, and AI-assisted review.
-- Turned message streams and operational data into structured queues, summaries, and decision-support workflows.
-- Built utilities for data cleanup, deduplication, import/export preparation, and operational reporting.
-- Worked under NDA; public details are limited, but public portfolio projects show related patterns and implementation style.
-
 ### KikuAI
-Product Engineer / Public Portfolio
+Founder / Product Engineer
 
 November 2025 - Present
 
-- Build public AI-assisted tools for data analysis, document processing, workflow automation, and research support.
-- Design small product workflows that turn messy inputs into reviewable, structured outputs.
-- Ship backend APIs, browser-facing tools, documentation, demos, and reusable automation patterns.
-- Focus areas include structured extraction, transcript review, data cleanup, chart digitization, issue workflows, and automation-first product design.
+- Build and operate KikuAI as the main product platform for practical AI-assisted tools, B2B APIs, and workflow automation.
+- Own product direction, backend/API implementation, browser-facing tools, documentation, demos, and public positioning.
+- Develop productized workflows that turn messy inputs into reviewable outputs: reports, repaired files, transcripts, exports, and control loops.
+- Current focus areas include PATAS, structured extraction, transcript review, data cleanup, chart digitization, issue workflows, and automation-first product design.
+
+### PATAS
+B2B SaaS / API Product
+
+2025 - Present
+
+- Develop and sell [PATAS](https://patas.app), a Pattern-Adaptive Transmodal Anti-Spam System for historical spam/log pattern discovery.
+- Position PATAS as a signal engine rather than a blind enforcement layer: it analyzes historical message batches, discovers repeated spam patterns, and exports transparent rules and reports for human or system review.
+- Built the product around practical B2B needs: offline batch analysis, explainable rule candidates, conservative safety thresholds, API access, usage-based packaging, and pilot-friendly deployment.
+- Work across the stack: product design, FastAPI-style API surfaces, data processing, classification logic, pricing/billing flow, documentation, demos, and customer-facing sales material.
+- Use PATAS as a real product testbed for moderation tooling, spam classification, data cleanup, operational reporting, and AI-assisted review workflows.
 
 ### Hacken Cybersecurity Services
 Community Development / Operations
@@ -80,7 +81,7 @@ January 2018 - March 2020
 
 | Project | What it shows |
 | --- | --- |
-| [PATAS](https://patas.app) | Pattern discovery for recurring commercial spam campaigns in large datasets. Shows data analysis, classification, and product thinking. |
+| [PATAS](https://patas.app) | B2B SaaS/API for historical spam/log pattern discovery. Shows product ownership, anti-spam domain work, data analysis, classification, API packaging, and sales-oriented product development. |
 | [KikuAI Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | AI-assisted transcript workflow for turning long-form content into structured review output. Shows applied AI workflow design and browser-facing product delivery. |
 | [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS. Shows local app development, user workflow design, and practical utility tooling. |
 | [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleanup tool. Shows document processing, text cleanup, and automation around repetitive office workflows. |
@@ -107,4 +108,4 @@ MC SIHE KNU
 
 ## Search Keywords
 
-`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `React` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Linux` · `Vercel` · `Hetzner` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `Document Processing` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation`
+`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `B2B SaaS` · `API Product` · `React` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Linux` · `Vercel` · `Hetzner` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `Document Processing` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Anti-Spam` · `PATAS`
