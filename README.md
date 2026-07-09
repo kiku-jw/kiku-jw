@@ -1,109 +1,102 @@
 <p align="center">
-  <img src="./assets/000564f9-49f0-43b3-8ac6-bd97fad05423.png" alt="KikuAI logo" width="100%">
+  <img src="./assets/000564f9-49f0-43b3-8ac6-bd97fad05423.png" alt="Dark KikuAI visual header with logo and soft light shapes" width="100%">
 </p>
 
 <h1 align="center">Nick / KikuAI</h1>
 
 <p align="center">
-  Software / Product Engineer for AI automation, backend APIs, messy data workflows, and operator-facing tools.
+  <strong>I build tools that turn messy files, logs, and media into reviewable output.</strong>
 </p>
 
 <p align="center">
-  <strong><a href="https://kikuai.dev/tools/">Open the tools catalog</a></strong>
+  Browser-local where possible. Built for broken imports, long media, feeds,
+  logs, and private text that need a clear report, repair, transcript, or safe
+  export.
 </p>
 
 <p align="center">
-  <a href="https://kikuai.dev">kikuai.dev</a>
+  <strong><a href="https://kikuai.dev/tools/">Open KikuAI tools</a></strong>
   ·
-  <a href="https://kikuai.dev/tools/">Examples</a>
-  ·
-  <a href="https://kikuai.dev/open-source/">Docs / open source</a>
-  ·
-  <a href="./CV.md">CV</a>
-  ·
-  <a href="https://www.linkedin.com/in/kiku-jw/">LinkedIn</a>
+  <a href="https://patas.app/">Try PATAS</a>
 </p>
 
-## Core Pattern
+<p align="center">
+  ZIP -> installability report · XLF pair -> repair or diagnosis ·
+  video/audio -> transcript exports
+</p>
 
-I build systems that take messy input and turn it into something a person or
-another system can review: files, logs, long media, links, feeds, messages, and
-workflow noise become reports, repaired files, transcripts, exports, rule sets,
-or control loops.
+## Featured Tools
 
-The common thread across my work is practical automation with an explicit review
-surface: parse the input, clean it up, classify or extract the useful signal,
-explain the result, and leave a human-readable artifact behind.
+### [WordPress ZIP Doctor](https://kikuai.dev/tools/wordpress-zip-doctor/)
 
-## Current Focus
+Check a theme or plugin ZIP before WordPress rejects the upload.
 
-My current commercial focus is [PATAS](https://patas.app): an audit-first
-commercial-spam pattern discovery product for buyer-owned or sanitized
-moderation exports.
+- **Input:** WordPress theme/plugin ZIP
+- **Output:** installability report or repaired package path
+- **Links:** [try it](https://kikuai.dev/tools/wordpress-zip-doctor/) · [code](https://github.com/KikuAI-Lab/wordpress-zip-doctor)
 
-Since 2020, I have worked hands-on with spam moderation workflows, message
-queues, abuse patterns, and operational review processes. In August 2024 I
-turned that domain work into PATAS: a focused SaaS/API product that turns bulk
-message/log exports into review-ready reports, repeated motifs, candidate
-SQL-like rules, and false-positive notes before any live integration.
+### [Untwine](https://kikuai.dev/fix-articulate-xliff-import-error/)
 
-## What I Build
+Compare Articulate XLIFF files and diagnose import failures without sending the
+whole workflow through a black box.
 
-I build small products and developer-facing tools that turn broken imports, long
-media, feeds, logs, links, and workflow noise into reviewable artifacts:
-reports, repaired files, exports, transcripts, rules, and control loops.
+- **Input:** original and translated XLIFF files
+- **Output:** repair/report when deterministic, diagnosis when not
+- **Links:** [check XLF files](https://kikuai.dev/fix-articulate-xliff-import-error/) · [code](https://github.com/KikuAI-Lab/untwine)
 
-That work spans backend/API implementation, browser-facing tools, local-first
-utilities, document and media workflows, technical documentation, Linux/macOS
-operations, QA checklists, and security-minded review of data flows and trust
-boundaries.
+### [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/)
 
-My public work is intentionally narrow: one painful input, one local or
-privacy-aware workflow, one useful output. Private technical details and product
-state live outside this profile; this page is the public front door.
+Turn long video or audio into files a reviewer, translator, or editor can use.
+
+- **Input:** long video/audio
+- **Output:** transcript, SRT, and VTT export package
+- **Links:** [open transcriber](https://kikuai.dev/translator-ready-srt/) · [code](https://github.com/KikuAI-Lab/long-video-transcriber)
+
+### [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/)
+
+Find product-data drift before a merchant feed turns into support tickets or bad
+ads.
+
+- **Input:** merchant, Shopify, or Google Shopping feed
+- **Output:** drift report, fixed feed, patch CSV, or manual fix list
+- **Links:** [check feed](https://kikuai.dev/tools/google-shopping-feed-leak-checker/) · [code](https://github.com/KikuAI-Lab/merchant-feed-leak-checker)
 
 ## Commercial Focus
 
-| Product | Job | Links |
-| --- | --- | --- |
-| PATAS | buyer-owned moderation exports -> commercial-spam pattern audit -> review queues, candidate rules, false-positive notes | [site](https://patas.app) · [API quickstart](https://kikuai.dev/developers/patas/) · [repo](https://github.com/KikuAI-Lab/PATAS) |
-| TAS | live commercial-spam filtering for buyer-owned streams, gated behind PATAS-style proof and human-review fallback | [repo](https://github.com/KikuAI-Lab/tas) |
+### [PATAS](https://patas.app/)
 
-## KikuAI Tools
+Audit-first commercial-spam pattern discovery for buyer-owned or sanitized
+moderation exports.
 
-| Product | Job | Links |
-| --- | --- | --- |
-| WordPress ZIP Doctor | WordPress theme/plugin ZIP -> installability diagnosis -> report or repaired package path | [try](https://kikuai.dev/tools/wordpress-zip-doctor/) · [repo](https://github.com/KikuAI-Lab/wordpress-zip-doctor) |
-| Long Video Transcriber | long video/audio -> transcript -> SRT/VTT export package | [try](https://kikuai.dev/translator-ready-srt/) · [repo](https://github.com/KikuAI-Lab/long-video-transcriber) |
-| Untwine | Articulate XLIFF pair -> import diagnosis -> safe repair/report when deterministic | [try](https://kikuai.dev/fix-articulate-xliff-import-error/) · [repo](https://github.com/KikuAI-Lab/untwine) |
-| Merchant Feed Leak Checker | Merchant/Shopify feed -> product-data drift report -> fixed feed, patch CSV, manual fixes | [try](https://kikuai.dev/tools/google-shopping-feed-leak-checker/) · [repo](https://github.com/KikuAI-Lab/merchant-feed-leak-checker) |
-| Email Send-Ready QA | HTML email -> pre-send QA checks -> fixed HTML and QA report | [try](https://kikuai.dev/tools/email-send-ready-qa/) · [repo](https://github.com/KikuAI-Lab/email-send-ready-qa) |
-| Revenue Link Health Checker | CSV/HTML/Markdown links -> monetized link risk report -> patch list | [try](https://kikuai.dev/revenue-link-health-checker/) · [repo](https://github.com/KikuAI-Lab/revenue-link-health-checker) |
+- **Input:** historical message/log exports
+- **Output:** repeated motifs, review queues, candidate SQL-like rules, and false-positive notes
+- **Links:** [try PATAS](https://patas.app/) · [API quickstart](https://kikuai.dev/developers/patas/) · [code](https://github.com/KikuAI-Lab/PATAS)
 
-## Workflow And Proof Projects
+PATAS is the current commercial focus. TAS/live filtering stays behind
+buyer/workflow proof and human-review fallback.
 
-| Project | What it shows |
-| --- | --- |
-| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | deterministic GitHub Issue workflow for human-agent execution |
-| [GitHub Scanner / Opportunity Scanner](https://github.com/kiku-jw/kikuai-github-scanner) | local-first repository signal scanning for product and workflow research |
-| [Demand Miner](https://github.com/kiku-jw/kikuai-demand-miner) | public pain-cluster discovery from Hacker News discussions |
-| Media and documentation workflows | video/audio processing, transcript preparation, FFmpeg-style automation, clear technical docs, and review checklists |
-| Security and reliability review | API/security basics, exposed-service checks, PII masking, trust-boundary review, and failure-mode analysis |
-| Hutmates | Unity3D game-development work |
+## More
 
-## Focus
+[Full tools catalog](https://kikuai.dev/tools/) ·
+[open source notes](https://kikuai.dev/open-source/) ·
+[CV](./CV.md) ·
+[LinkedIn](https://www.linkedin.com/in/kiku-jw/) ·
+[email](mailto:hi@kikuai.dev)
 
-- Browser-local and local-first utilities
-- AI-assisted workflow automation
-- Backend APIs and internal tools
-- Data cleanup, extraction, QA, and report generation
-- Commercial-spam pattern audits and moderation workflow artifacts
-- Human-agent control loops with explicit review surfaces
+<details>
+  <summary>Workflow and proof projects</summary>
 
-## Elsewhere
+  - [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) - deterministic GitHub Issue workflow for human-agent execution.
+  - [GitHub Scanner / Opportunity Scanner](https://github.com/kiku-jw/kikuai-github-scanner) - local-first repository signal scanning for product and workflow research.
+  - [Demand Miner](https://github.com/kiku-jw/kikuai-demand-miner) - public pain-cluster discovery from Hacker News discussions.
+  - Media and documentation workflows - video/audio processing, transcript preparation, FFmpeg-style automation, technical docs, and review checklists.
+  - Security and reliability review - API/data-flow review, PII masking, webhook validation, exposed-service checks, and failure-mode analysis.
+  - Hutmates - Unity3D game-development work, kept separate from the KikuAI commercial focus.
+</details>
 
-[CV](./CV.md) · [Email](mailto:hi@kikuai.dev) · [Telegram blog](https://t.me/kiku_ai) · [Music](https://suno.com/@kiku_jw)
+<details>
+  <summary>License note</summary>
 
-## License
-
-No open-source license is granted for profile text or images unless a file says otherwise. See [LICENSE](LICENSE).
+  No open-source license is granted for profile text or images unless a file says
+  otherwise. See [LICENSE](LICENSE).
+</details>
