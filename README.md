@@ -5,7 +5,7 @@
 <h1 align="center">Nick / KikuAI</h1>
 
 <p align="center">
-  Practical local-first tools for messy files, AI workflows, and operator-grade automation.
+  Audit-first PATAS work plus practical local-first tools for messy files, AI workflows, and operator-grade automation.
 </p>
 
 <p align="center">
@@ -24,17 +24,36 @@
   <a href="https://www.linkedin.com/in/kiku-jw/">LinkedIn</a>
 </p>
 
+## Current Focus
+
+My current commercial focus is [PATAS](https://patas.app): an audit-first
+commercial-spam pattern discovery product for buyer-owned or sanitized
+moderation exports.
+
+Since 2020, I have worked hands-on with spam moderation workflows, message
+queues, abuse patterns, and operational review processes. In August 2024 I
+turned that domain work into PATAS: a focused SaaS/API product that turns bulk
+message/log exports into review-ready reports, repeated motifs, candidate
+SQL-like rules, and false-positive notes before any live integration.
+
 ## What I Build
 
-I build small products and developer-facing tools that turn broken imports,
-long media, feeds, logs, links, and workflow noise into reviewable artifacts:
-reports, repaired files, exports, transcripts, and control loops.
+I build small products and developer-facing tools that turn broken imports, long
+media, feeds, logs, links, and workflow noise into reviewable artifacts:
+reports, repaired files, exports, transcripts, rules, and control loops.
 
 My public work is intentionally narrow: one painful input, one local or
 privacy-aware workflow, one useful output. Private technical details and product
 state live outside this profile; this page is the public front door.
 
-## Main Products
+## Commercial Focus
+
+| Product | Job | Links |
+| --- | --- | --- |
+| PATAS | buyer-owned moderation exports -> commercial-spam pattern audit -> review queues, candidate rules, false-positive notes | [site](https://patas.app) · [API quickstart](https://kikuai.dev/developers/patas/) · [repo](https://github.com/KikuAI-Lab/PATAS) |
+| TAS | live commercial-spam filtering for buyer-owned streams, gated behind PATAS-style proof and human-review fallback | [repo](https://github.com/KikuAI-Lab/tas) |
+
+## KikuAI Tools
 
 | Product | Job | Links |
 | --- | --- | --- |
@@ -49,10 +68,10 @@ state live outside this profile; this page is the public front door.
 
 | Project | What it shows |
 | --- | --- |
-| [PATAS / Spam Pattern Report](https://kikuai.dev/tools/spam-pattern-report/) | spam/log pattern review, repeated-message analysis, report-led moderation tooling |
 | [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | deterministic GitHub Issue workflow for human-agent execution |
 | [GitHub Scanner / Opportunity Scanner](https://github.com/kiku-jw/kikuai-github-scanner) | local-first repository signal scanning for product and workflow research |
 | [Demand Miner](https://github.com/kiku-jw/kikuai-demand-miner) | public pain-cluster discovery from Hacker News discussions |
+| Hutmates | hobby team game-development work, kept separate from the KikuAI commercial focus |
 
 ## Focus
 
@@ -60,11 +79,12 @@ state live outside this profile; this page is the public front door.
 - AI-assisted workflow automation
 - Backend APIs and internal tools
 - Data cleanup, extraction, QA, and report generation
+- Commercial-spam pattern audits and moderation workflow artifacts
 - Human-agent control loops with explicit review surfaces
 
 ## Elsewhere
 
-[CV](./CV.md) · [Telegram blog](https://t.me/kiku_ai) · [Music](https://suno.com/@kiku_jw)
+[CV](./CV.md) · [Email](mailto:hi@kikuai.dev) · [Telegram blog](https://t.me/kiku_ai) · [Music](https://suno.com/@kiku_jw)
 
 ## License
 
