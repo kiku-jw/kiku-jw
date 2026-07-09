@@ -5,7 +5,7 @@
 <h1 align="center">Nick / KikuAI</h1>
 
 <p align="center">
-  Audit-first PATAS work plus practical local-first tools for messy files, AI workflows, and operator-grade automation.
+  Software / Product Engineer for AI automation, backend APIs, messy data workflows, and operator-facing tools.
 </p>
 
 <p align="center">
@@ -24,6 +24,17 @@
   <a href="https://www.linkedin.com/in/kiku-jw/">LinkedIn</a>
 </p>
 
+## Core Pattern
+
+I build systems that take messy input and turn it into something a person or
+another system can review: files, logs, long media, links, feeds, messages, and
+workflow noise become reports, repaired files, transcripts, exports, rule sets,
+or control loops.
+
+The common thread across my work is practical automation with an explicit review
+surface: parse the input, clean it up, classify or extract the useful signal,
+explain the result, and leave a human-readable artifact behind.
+
 ## Current Focus
 
 My current commercial focus is [PATAS](https://patas.app): an audit-first
@@ -41,6 +52,11 @@ SQL-like rules, and false-positive notes before any live integration.
 I build small products and developer-facing tools that turn broken imports, long
 media, feeds, logs, links, and workflow noise into reviewable artifacts:
 reports, repaired files, exports, transcripts, rules, and control loops.
+
+That work spans backend/API implementation, browser-facing tools, local-first
+utilities, document and media workflows, technical documentation, Linux/macOS
+operations, QA checklists, and security-minded review of data flows and trust
+boundaries.
 
 My public work is intentionally narrow: one painful input, one local or
 privacy-aware workflow, one useful output. Private technical details and product
@@ -71,6 +87,8 @@ state live outside this profile; this page is the public front door.
 | [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | deterministic GitHub Issue workflow for human-agent execution |
 | [GitHub Scanner / Opportunity Scanner](https://github.com/kiku-jw/kikuai-github-scanner) | local-first repository signal scanning for product and workflow research |
 | [Demand Miner](https://github.com/kiku-jw/kikuai-demand-miner) | public pain-cluster discovery from Hacker News discussions |
+| Media and documentation workflows | video/audio processing, transcript preparation, FFmpeg-style automation, clear technical docs, and review checklists |
+| Security and reliability review | API/security basics, exposed-service checks, PII masking, trust-boundary review, and failure-mode analysis |
 | Hutmates | hobby team game-development work, kept separate from the KikuAI commercial focus |
 
 ## Focus

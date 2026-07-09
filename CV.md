@@ -8,13 +8,17 @@ Ukraine (Kyiv timezone)
 
 ## Profile
 
-Software engineer and product builder focused on KikuAI: practical AI-assisted tools, audit-first B2B SaaS/API products, backend services, data workflows, and operator-facing automation.
+Software / Product Engineer focused on AI automation, backend/API systems, data/message/document workflows, and operator-facing tools.
 
-My current work is centered on KikuAI products, especially PATAS: an audit-first commercial-spam pattern discovery product for buyer-owned or sanitized moderation exports. I build practical end-to-end systems: ingestion, parsing, cleanup, classification, API layer, billing/product packaging, deployment, monitoring, and documentation.
+I usually work on the full path from messy input to reviewable output: ingestion, parsing, cleanup, classification, extraction, API layer, deployment, monitoring, documentation, and the final artifact that an operator can inspect. The inputs are often files, logs, long media, messages, links, feeds, screenshots, exports, or broken imports. The outputs are reports, repaired files, transcripts, CSV/JSON exports, candidate rules, QA notes, or control loops.
+
+My current work is centered on KikuAI products, especially PATAS: an audit-first commercial-spam pattern discovery product for buyer-owned or sanitized moderation exports.
 
 Since 2020, I have worked hands-on with spam moderation workflows, message queues, abuse patterns, and operational review processes. In August 2024, I turned that domain work into PATAS: a focused SaaS/API product that produces review-ready reports, candidate SQL-like rules, and false-positive notes before any live integration.
 
-I am interested in roles where software engineering, product ownership, and process automation meet: AI automation, backend/API products, internal tools, data workflows, document/message processing, and operational systems.
+Supporting experience includes technical documentation, video/audio and transcript workflows, Linux/macOS operations, automated and manual QA, security-minded review of APIs/data flows, and structured research/report writing.
+
+I am interested in roles where software engineering, product ownership, and process automation meet: AI automation, backend/API products, internal tools, data workflows, document/message processing, moderation tooling, and operational systems.
 
 ## Target Roles
 
@@ -34,9 +38,10 @@ I am interested in roles where software engineering, product ownership, and proc
 - Backend: FastAPI, Node.js, REST APIs, PostgreSQL, Redis
 - Frontend/product surfaces: React, HTML/CSS, browser-facing tools
 - AI/LLM: LLM integrations, RAG, semantic search, classification, summarization, structured extraction
-- Automation: Telegram workflows, GitHub workflows, CSV/Excel/JSON processing, document cleanup, report generation
-- Operations: Docker, CI/CD, Linux servers, Vercel, Hetzner, logging, monitoring, environment management
-- Security basics: API security, rate limiting, PII masking, webhook validation, secret management
+- Automation and data workflows: Telegram workflows, GitHub workflows, CSV/Excel/JSON processing, document cleanup, transcript preparation, report generation
+- Media and documentation: FFmpeg-style media tooling, video/audio workflow support, technical documentation, setup guides, QA checklists, visual explanations
+- Operations: Docker, CI/CD, Linux servers, macOS tooling, Vercel, Hetzner, logging, monitoring, environment management
+- Security and review: API security, rate limiting, PII masking, webhook validation, secret management, trust-boundary review, failure-mode analysis
 
 ## Experience
 
@@ -48,7 +53,8 @@ November 2025 - Present
 - Build and operate KikuAI as the main product platform for practical AI-assisted tools, B2B APIs, and workflow automation.
 - Own product direction, backend/API implementation, browser-facing tools, documentation, demos, and public positioning.
 - Develop productized workflows that turn messy inputs into reviewable outputs: reports, repaired files, transcripts, exports, and control loops.
-- Current focus areas include PATAS, structured extraction, transcript review, data cleanup, chart digitization, issue workflows, and automation-first product design.
+- Build across the product surface: input handling, parsing, data cleanup, LLM-assisted extraction/classification, API routes, UI flows, docs, demos, and deployment checks.
+- Current focus areas include PATAS, TAS, structured extraction, transcript review, data cleanup, chart digitization, issue workflows, and automation-first product design.
 
 ### PATAS
 B2B SaaS / API Product
@@ -69,6 +75,17 @@ Moderator / Anti-Spam Workflow Builder
 - Worked hands-on with spam moderation queues, public-channel/group workflows, message streams, recurring abuse patterns, and operator review constraints.
 - Built the domain foundation that later became PATAS: repeat-pattern analysis, spam/not-spam classification workflows, data cleanup, queue preparation, summaries, and decision-support artifacts.
 - Treat this as domain experience and product preparation, not as a claim that PATAS existed as a SaaS product before August 2024.
+
+### Applied Media, Documentation, QA, And Security Work
+Volunteer / Personal / Product Support
+
+Ongoing
+
+- Built and supported practical workflows around video/audio preparation, transcript review, documentation assets, technical notes, and reusable checklists.
+- Used Python, TypeScript, Node.js, FFmpeg-style tooling, AI assistance, and manual review to turn rough media or technical inputs into usable artifacts.
+- Applied Linux/macOS operations, local tooling, source control, reproducible steps, and quality checks across software, media, and documentation work.
+- Reviewed web/API/data workflows for authentication, authorization, exposed data, PII handling, unsafe integrations, and operational failure modes.
+- This is supporting evidence for engineering range, not a separate commercial product line.
 
 ### Hacken Cybersecurity Services
 Community Development / Operations
@@ -101,6 +118,8 @@ January 2018 - March 2020
 | [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for API and LLM-heavy workflows. Shows retries, cache, fallback handling, and operational control. |
 | [masker](https://github.com/kiku-jw/masker) | PII redaction API for AI workflows. Shows privacy-aware processing and secure handling of sensitive text. |
 | [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for human-agent execution. Shows structured automation, process design, and developer workflow tooling. |
+| Media/documentation workflows | Video/audio processing, transcript preparation, technical docs, visual explanations, and QA checklists. Shows practical support work around complex content and reviewable artifacts. |
+| Security/reliability review | API/data-flow review, PII masking, webhook validation, exposed-service checks, and failure-mode analysis. Shows security-minded engineering judgment around automation systems. |
 | Hutmates | Hobby game-development team project. Shows practical collaboration with a developer team, gameplay iteration, and 3D/physics-oriented product work outside the main KikuAI commercial focus. |
 
 ## Education
@@ -120,4 +139,4 @@ MC SIHE KNU
 
 ## Search Keywords
 
-`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `B2B SaaS` · `API Product` · `React` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Linux` · `Vercel` · `Hetzner` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `Document Processing` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Anti-Spam` · `PATAS`
+`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `B2B SaaS` · `API Product` · `React` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Linux` · `macOS` · `Vercel` · `Hetzner` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `Document Processing` · `Transcript Workflows` · `Media Processing` · `Technical Documentation` · `QA Checklists` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Anti-Spam` · `PATAS`
