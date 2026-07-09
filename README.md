@@ -89,7 +89,7 @@ state live outside this profile; this page is the public front door.
 | [Demand Miner](https://github.com/kiku-jw/kikuai-demand-miner) | public pain-cluster discovery from Hacker News discussions |
 | Media and documentation workflows | video/audio processing, transcript preparation, FFmpeg-style automation, clear technical docs, and review checklists |
 | Security and reliability review | API/security basics, exposed-service checks, PII masking, trust-boundary review, and failure-mode analysis |
-| Hutmates | hobby team game-development work, kept separate from the KikuAI commercial focus |
+| Hutmates | Unity3D game-development work |
 
 ## Focus
 
