@@ -4,7 +4,7 @@ Software Engineer / AI Automation Engineer
 
 Ukraine (Kyiv timezone)
 
-[Email](mailto:hi@kikuai.dev) · [LinkedIn](https://www.linkedin.com/in/kiku-jw/) · [GitHub](https://github.com/kiku-jw) · [KikuAI](https://kikuai.dev) · [PATAS](https://patas.app) · [X/Twitter](https://x.com/kiku_JW) · [Telegram](https://t.me/kiku_ai)
+[Email](mailto:hi@kikuai.dev) · [LinkedIn](https://www.linkedin.com/in/kiku-jw/) · [GitHub](https://github.com/kiku-jw) · [KikuAI](https://kikuai.dev) · [PATAS](https://patas.app) · [Broad experience & evidence](./EXPERIENCE.md) · [X/Twitter](https://x.com/kiku_JW) · [Telegram](https://t.me/kiku_ai)
 
 ## Profile
 
@@ -68,7 +68,7 @@ October 2024 - Present
 - Position PATAS as a signal engine rather than a blind enforcement layer: it analyzes historical batches, discovers repeated spam motifs, and exports transparent reports, review queues, candidate SQL-like rules, and false-positive notes for human or system review.
 - Implemented embeddings-based semantic pattern mining with OpenAI/local providers, batching, Redis/SQLite caching, cosine/DBSCAN clustering, and deterministic fallbacks.
 - Built the product around practical B2B needs: offline batch analysis, explainable rule candidates, conservative safety thresholds, capped API access, usage-based packaging, and pilot-friendly deployment.
-- Work across the stack: product design, FastAPI-style API surfaces, data processing, classification logic, pricing/billing flow, documentation, demos, and customer-facing sales material.
+- Work across the stack: product design, FastAPI-style API surfaces, data processing, classification logic, pricing/billing flow, documentation, demos, and buyer-facing product material.
 - Use PATAS as a real product testbed for moderation tooling, spam classification, data cleanup, operational reporting, and AI-assisted review workflows.
 
 ### Telegram Messenger
@@ -94,8 +94,8 @@ Volunteer / Personal / Product Support
 
 Ongoing
 
-- Edited dozens of substantial public video works in DaVinci Resolve, including multiple releases viewed by audiences in the hundreds of thousands.
-- Delivered recurring audio post-production, music-support, FFmpeg conversion/inspection, transcript, and media-delivery workflows across multiple completed projects.
+- Work with DaVinci Resolve, audio post-production, music-support, FFmpeg conversion/inspection, transcript, and media-delivery workflows across multiple completed projects.
+- Keep related work samples, clients, credits, and audience details private where they are covered by NDA.
 - Create visual identities, web/product interfaces, data visualizations, and Photoshop assets for niche products, combining manual judgment with current AI design tools.
 - Used Python, TypeScript, Node.js, FFmpeg, AI assistance, and manual review to turn rough media or technical inputs into usable artifacts.
 - Applied Linux/macOS operations, local tooling, source control, reproducible steps, and quality checks across software, media, and documentation work.
