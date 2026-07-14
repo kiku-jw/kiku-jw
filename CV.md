@@ -14,9 +14,9 @@ I usually work on the full path from messy input to reviewable output: ingestion
 
 My current work is centered on KikuAI products, especially PATAS: an audit-first commercial-spam pattern discovery product for buyer-owned or sanitized moderation exports.
 
-Since 2020, I have worked hands-on with spam moderation workflows, message queues, abuse patterns, and operational review processes. In August 2024, I turned that domain work into PATAS: a focused SaaS/API product that produces review-ready reports, candidate SQL-like rules, and false-positive notes before any live integration.
+Since May 2020, I have provided long-term software and process consulting under NDA, translating hands-on operational feedback into actionable improvements for developers and internal tools. In August 2024, I began automating the underlying workflow as TAS; in October 2024, I started developing PATAS as a focused product/API that produces review-ready reports, candidate SQL-like rules, and false-positive notes before any live integration.
 
-Supporting experience includes technical documentation, video/audio and transcript workflows, Linux/macOS operations, automated and manual QA, security-minded review of APIs/data flows, and structured research/report writing.
+Supporting experience includes PostgreSQL/Redis-backed applications, Swift/macOS and Go tools, Unity/C#/Photon Fusion team work, technical documentation, substantial video/audio production, visual/brand design, data visualization, Linux/macOS operations, automated and manual QA, security-minded review of APIs/data flows, and structured research/report writing.
 
 I am interested in roles where software engineering, product ownership, and process automation meet: AI automation, backend/API products, internal tools, data workflows, document/message processing, moderation tooling, and operational systems.
 
@@ -30,18 +30,20 @@ I am interested in roles where software engineering, product ownership, and proc
 - Internal Tools Engineer
 - Workflow Automation Engineer
 - Product Engineer
+- Native / Game Tooling Engineer
 
 ## Technical Skills
 
-- Languages: Python, TypeScript, JavaScript
-- Additional languages: Swift and Go for focused tools and experiments
-- Backend: FastAPI, Node.js, REST APIs, PostgreSQL, Redis
-- Frontend/product surfaces: React, HTML/CSS, browser-facing tools
-- AI/LLM: LLM integrations, RAG, semantic search, classification, summarization, structured extraction
-- Automation and data workflows: Telegram workflows, GitHub workflows, CSV/Excel/JSON processing, document cleanup, transcript preparation, report generation
-- Media and documentation: FFmpeg-style media tooling, video/audio workflow support, technical documentation, setup guides, QA checklists, visual explanations
-- Operations: Docker, CI/CD, Linux servers, macOS tooling, Vercel, Hetzner, logging, monitoring, environment management
+- Languages: Python, TypeScript, JavaScript; substantial project work with Swift, Go, and C#
+- Backend: FastAPI, Node.js, REST APIs, PostgreSQL, Redis, SQLAlchemy, SQLite, Cloudflare D1
+- Frontend/product surfaces: Nuxt/Vue, React, HTML/CSS, browser-facing and local-first tools
+- AI/LLM: LLM integrations, embeddings, semantic clustering/pattern mining, classification, summarization, structured extraction
+- Automation and data workflows: Telegram workflows, GitHub workflows, CSV/JSON processing, document cleanup, transcript preparation, report generation
+- Native and game development: Swift/macOS, Go, Unity/C#, Photon Fusion, multiplayer/authority and vehicle/platform physics workflows
+- Media, design, and documentation: DaVinci Resolve, FFmpeg, audio post-production, Photoshop, visual identity, UI/UX, data visualization, technical documentation, setup guides, QA checklists
+- Operations: Docker, GitHub Actions, Linux servers, macOS tooling, Cloudflare Pages/Workers/D1, Hetzner, logging, monitoring, environment management
 - Security and review: API security, rate limiting, PII masking, webhook validation, secret management, trust-boundary review, failure-mode analysis
+- Teaching: long-term informal mentoring in technology, AI-assisted development, and structured learning
 
 ## Experience
 
@@ -59,36 +61,50 @@ November 2025 - Present
 ### PATAS
 B2B SaaS / API Product
 
-August 2024 - Present
+October 2024 - Present
 
-- Develop and sell [PATAS](https://patas.app), a Pattern-Adaptive Transmodal Anti-Spam System for commercial-spam pattern audits on buyer-owned or sanitized message/log exports.
+- Build and operate [PATAS](https://patas.app), a Pattern-Adaptive Transmodal Anti-Spam System for commercial-spam pattern audits on buyer-owned or sanitized message/log exports.
+- Began the underlying TAS workflow automation in August 2024 and started PATAS product development in October 2024.
 - Position PATAS as a signal engine rather than a blind enforcement layer: it analyzes historical batches, discovers repeated spam motifs, and exports transparent reports, review queues, candidate SQL-like rules, and false-positive notes for human or system review.
+- Implemented embeddings-based semantic pattern mining with OpenAI/local providers, batching, Redis/SQLite caching, cosine/DBSCAN clustering, and deterministic fallbacks.
 - Built the product around practical B2B needs: offline batch analysis, explainable rule candidates, conservative safety thresholds, capped API access, usage-based packaging, and pilot-friendly deployment.
 - Work across the stack: product design, FastAPI-style API surfaces, data processing, classification logic, pricing/billing flow, documentation, demos, and customer-facing sales material.
 - Use PATAS as a real product testbed for moderation tooling, spam classification, data cleanup, operational reporting, and AI-assisted review workflows.
 
-### Spam Moderation And Operations Domain Work
-Moderator / Anti-Spam Workflow Builder
+### Telegram Messenger
+Consultant (Contract)
 
-2020 - Present
+May 2020 - Present
 
-- Worked hands-on with spam moderation queues, public-channel/group workflows, message streams, recurring abuse patterns, and operator review constraints.
-- Built the domain foundation that later became PATAS: repeat-pattern analysis, spam/not-spam classification workflows, data cleanup, queue preparation, summaries, and decision-support artifacts.
-- Treat this as domain experience and product preparation, not as a claim that PATAS existed as a SaaS product before August 2024.
+- Provide long-term software and process consulting under NDA.
+- Translate recurring hands-on operational feedback into product requirements and actionable improvements for developers and internal tooling.
+- Work with high-volume communication workflows, quality constraints, escalation paths, and failure-mode tradeoffs without disclosing confidential operational details.
+
+### HUTMATES
+Game Developer / Team Contributor
+
+June 2026 - Present
+
+- Contribute to a substantial Unity/C# team project using Photon Fusion Shared Mode.
+- Work on multiplayer authority and control behavior, vehicle/platform physics, WheelCollider and Rigidbody diagnostics, validators, reproducible preflight checks, and two-client playtesting.
+- Take ownership of bounded implementation and QA scopes while coordinating with the wider developer team and Unity Version Control workflow.
 
 ### Applied Media, Documentation, QA, And Security Work
 Volunteer / Personal / Product Support
 
 Ongoing
 
-- Built and supported practical workflows around video/audio preparation, transcript review, documentation assets, technical notes, and reusable checklists.
-- Used Python, TypeScript, Node.js, FFmpeg-style tooling, AI assistance, and manual review to turn rough media or technical inputs into usable artifacts.
+- Edited dozens of substantial public video works in DaVinci Resolve, including multiple releases viewed by audiences in the hundreds of thousands.
+- Delivered recurring audio post-production, music-support, FFmpeg conversion/inspection, transcript, and media-delivery workflows across multiple completed projects.
+- Create visual identities, web/product interfaces, data visualizations, and Photoshop assets for niche products, combining manual judgment with current AI design tools.
+- Used Python, TypeScript, Node.js, FFmpeg, AI assistance, and manual review to turn rough media or technical inputs into usable artifacts.
 - Applied Linux/macOS operations, local tooling, source control, reproducible steps, and quality checks across software, media, and documentation work.
 - Reviewed web/API/data workflows for authentication, authorization, exposed data, PII handling, unsafe integrations, and operational failure modes.
+- Provide long-term informal teaching and mentoring in structured learning, technology, IT, and AI-assisted development.
 - This is supporting evidence for engineering range, not a separate commercial product line.
 
 ### Hacken Cybersecurity Services
-Community Development / Operations
+Marketing & Community Operations / Community Operations Volunteer
 
 April 2020 - September 2020
 
@@ -97,7 +113,7 @@ April 2020 - September 2020
 - Worked closely with cybersecurity product operations, user feedback, and public-facing support processes.
 
 ### Golden Borodutch
-Investment Analyst
+Due Diligence Research Analyst
 
 January 2018 - March 2020
 
@@ -124,7 +140,7 @@ January 2018 - March 2020
 
 ## Education
 
-Electronics Technician-Designer
+Bachelor of Engineering - BE, Technician designer (electronics)
 
 MC SIHE KNU
 
@@ -139,4 +155,4 @@ MC SIHE KNU
 
 ## Search Keywords
 
-`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `Backend APIs` · `B2B SaaS` · `API Product` · `React` · `PostgreSQL` · `Redis` · `Docker` · `CI/CD` · `Linux` · `macOS` · `Vercel` · `Hetzner` · `LLM` · `RAG` · `Semantic Search` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `Excel` · `JSON` · `Document Processing` · `Transcript Workflows` · `Media Processing` · `Technical Documentation` · `QA Checklists` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Anti-Spam` · `PATAS`
+`Python` · `TypeScript` · `JavaScript` · `Swift` · `Go` · `C#` · `FastAPI` · `Node.js` · `Backend APIs` · `B2B SaaS` · `API Product` · `Nuxt` · `Vue` · `React` · `PostgreSQL` · `Redis` · `SQLAlchemy` · `Docker` · `GitHub Actions` · `Linux` · `macOS` · `Cloudflare` · `Hetzner` · `LLM` · `Embeddings` · `Semantic Clustering` · `DBSCAN` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `JSON` · `Document Processing` · `Transcript Workflows` · `DaVinci Resolve` · `FFmpeg` · `Audio Post-Production` · `Photoshop` · `Visual Identity` · `Data Visualization` · `Unity` · `Photon Fusion` · `Technical Documentation` · `QA Checklists` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Anti-Spam` · `PATAS`

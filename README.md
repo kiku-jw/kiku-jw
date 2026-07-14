@@ -69,7 +69,7 @@ Audit-first commercial-spam pattern discovery for buyer-owned or sanitized
 moderation exports.
 
 - **Input:** historical message/log exports
-- **Output:** repeated motifs, review queues, candidate SQL-like rules, and false-positive notes
+- **Output:** repeated motifs and semantic clusters, review queues, candidate SQL-like rules, and false-positive notes
 - **Links:** [try PATAS](https://patas.app/) · [API quickstart](https://kikuai.dev/developers/patas/) · [code](https://github.com/KikuAI-Lab/PATAS)
 
 PATAS is the current commercial focus. TAS/live filtering stays behind
@@ -89,9 +89,9 @@ buyer/workflow proof and human-review fallback.
   - [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) - deterministic GitHub Issue workflow for human-agent execution.
   - [GitHub Scanner / Opportunity Scanner](https://github.com/kiku-jw/kikuai-github-scanner) - local-first repository signal scanning for product and workflow research.
   - [Demand Miner](https://github.com/kiku-jw/kikuai-demand-miner) - public pain-cluster discovery from Hacker News discussions.
-  - Media and documentation workflows - video/audio processing, transcript preparation, FFmpeg-style automation, technical docs, and review checklists.
+  - Media, design, and documentation workflows - DaVinci Resolve, FFmpeg/audio post, Photoshop and brand/data visuals, transcript preparation, technical docs, and review checklists.
   - Security and reliability review - API/data-flow review, PII masking, webhook validation, exposed-service checks, and failure-mode analysis.
-  - Hutmates - Unity3D game-development work, kept separate from the KikuAI commercial focus.
+  - Hutmates - active Unity/C#/Photon Fusion team development, kept separate from the KikuAI commercial focus.
 </details>
 
 <details>
