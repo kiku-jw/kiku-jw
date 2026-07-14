@@ -244,7 +244,8 @@ seniority or code quality.
 
 ## Education and Languages
 
-**Bachelor of Engineering - BE, Technician designer (electronics)**  
+**Bachelor of Engineering - BE, Technician designer (electronics)**
+
 MC SIHE KNU, 2014-2018
 
 - Ukrainian: native
