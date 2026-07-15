@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="./CV.md">Focused CV</a>
+  <a href="./CV.md">CV</a>
   ·
   <a href="https://www.linkedin.com/in/kiku-jw/">LinkedIn</a>
   ·
@@ -34,8 +34,7 @@ My recurring workflow is simple:
 
 `messy input` -> `deterministic checks + AI assistance` -> `report, repair, transcript, export, or control loop`
 
-I own the path from product framing and implementation to tests, documentation,
-deployment, and the final artifact a person can inspect.
+I own the path from product framing to tests, documentation, deployment, and the final artifact a person can inspect.
 
 <details>
   <summary><strong>Selected products and proof projects</strong></summary>
