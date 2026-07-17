@@ -32,21 +32,27 @@
 
 My recurring workflow is simple:
 
-`messy input` -> `deterministic checks + AI assistance` -> `report, repair, transcript, export, or control loop`
+`messy input` → `deterministic checks + AI assistance` → `report, repair, transcript, export, or control loop`
 
 I own the path from product framing to tests, documentation, deployment, and the final artifact a person can inspect.
 
-<details>
-  <summary><strong>Selected products and proof projects</strong></summary>
+## Core portfolio
 
-  - [PATAS](https://github.com/PATAS-TAS/PATAS) - audit-first pattern discovery and rule management for historical message/log exports.
-  - [WordPress ZIP Doctor](https://kikuai.dev/tools/wordpress-zip-doctor/) - browser-local installability inspection for WordPress packages.
-  - [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) - browser-local transcript and SRT/VTT export workflow.
-  - [Untwine](https://kikuai.dev/fix-articulate-xliff-import-error/) - deterministic diagnosis and repair for Articulate XLIFF import failures.
-  - [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/) - feed triage, safe repair, patch CSV, and review report.
-  - [ClipStash](https://github.com/kiku-jw/ClipStash) - local-first macOS clipboard history utility in Swift.
-  - [reliapi](https://github.com/kiku-jw/reliapi) - retries, caching, circuit breakers, and rate limits for API/LLM workflows.
-  - [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) - deterministic GitHub Issue workflow for human-agent execution.
+- **[PATAS](https://github.com/PATAS-TAS/PATAS)** — audit-first pattern discovery and rule management for historical message and moderation exports.
+- **[ReliAPI](https://github.com/kiku-jw/reliapi)** — retries, caching, circuit breakers, rate limits, and cost controls for HTTP and LLM workflows.
+- **[Masker](https://github.com/kiku-jw/masker)** — self-hostable PII redaction boundary for text, JSON, and OpenAI-compatible workflows.
+- **[ClipStash](https://github.com/kiku-jw/ClipStash)** — native local-first macOS clipboard history utility in Swift.
+- **[Untwine](https://github.com/KikuAI-Lab/untwine)** — deterministic diagnosis and safe repair for Articulate XLIFF import failures.
+- **[KikuAI GitHub Scanner](https://github.com/kiku-jw/kikuai-github-scanner)** — local-first evidence pipeline for repository, demand, and opportunity signals.
+
+<details>
+  <summary><strong>More products and proof projects</strong></summary>
+
+  - [WordPress ZIP Doctor](https://kikuai.dev/tools/wordpress-zip-doctor/) — browser-local installability inspection and safe repackaging for WordPress packages.
+  - [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) — browser-local transcript and SRT/VTT export workflow.
+  - [Merchant Feed Leak Checker](https://kikuai.dev/tools/google-shopping-feed-leak-checker/) — feed triage, safe repair, patch CSV, and review report.
+  - [Issue Control Loop](https://github.com/kiku-jw/issue-control-loop) — deterministic GitHub Issue workflow for human-agent execution.
+  - [Codex Skills](https://github.com/kiku-jw/codex-skills) — canonical source for small reusable agent workflows.
 </details>
 
 <details>
