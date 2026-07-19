@@ -127,13 +127,13 @@ January 2018 - March 2020
 | --- | --- |
 | [PATAS](https://patas.app) | Audit-first B2B SaaS/API for commercial-spam pattern reports on buyer-owned or sanitized moderation exports. Shows product ownership, anti-spam domain work, data analysis, classification, API packaging, and sales-oriented product development. |
 | [KikuAI Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | AI-assisted transcript workflow for turning long-form content into structured review output. Shows applied AI workflow design and browser-facing product delivery. |
-| [ClipStash](https://github.com/kiku-jw/ClipStash) | Privacy-first clipboard manager for macOS. Shows local app development, user workflow design, and practical utility tooling. |
-| [DocStripper](https://github.com/kiku-jw/DocStripper) | Batch document cleanup tool. Shows document processing, text cleanup, and automation around repetitive office workflows. |
-| [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | AI-assisted chart digitizer. Shows structured extraction from visual input and data preparation for downstream use. |
+| [ClipStash](https://github.com/KikuAI-Lab/ClipStash) | Privacy-first clipboard manager for macOS. Shows local app development, user workflow design, and practical utility tooling. |
+| [DocStripper](https://github.com/KikuAI-Lab/DocStripper) | Batch document cleanup tool. Shows document processing, text cleanup, and automation around repetitive office workflows. |
+| [Chart2CSV](https://github.com/KikuAI-Lab/Chart2CSV) | AI-assisted chart digitizer. Shows structured extraction from visual input and data preparation for downstream use. |
 | [Articulate XLIFF Import Doctor](https://kikuai.dev/fix-articulate-xliff-import-error/) | Small browser-local diagnostic for Articulate XLIFF import failures. Shows narrow product validation and privacy-aware file handling. |
-| [reliapi](https://github.com/kiku-jw/reliapi) | Reliability layer for API and LLM-heavy workflows. Shows retries, cache, fallback handling, and operational control. |
-| [masker](https://github.com/kiku-jw/masker) | PII redaction API for AI workflows. Shows privacy-aware processing and secure handling of sensitive text. |
-| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue workflow for human-agent execution. Shows structured automation, process design, and developer workflow tooling. |
+| [reliapi](https://github.com/KikuAI-Lab/reliapi) | Reliability layer for API and LLM-heavy workflows. Shows retries, cache, fallback handling, and operational control. |
+| [masker](https://github.com/KikuAI-Lab/masker) | PII redaction API for AI workflows. Shows privacy-aware processing and secure handling of sensitive text. |
+| [issue-control-loop](https://github.com/kiku-jw/codex-skills/tree/main/issue-control-loop) | Deterministic GitHub Issue workflow for human-agent execution. Shows structured automation, process design, and developer workflow tooling. |
 | Media/documentation workflows | Video/audio processing, transcript preparation, technical docs, visual explanations, and QA checklists. Shows practical support work around complex content and reviewable artifacts. |
 | Security/reliability review | API/data-flow review, PII masking, webhook validation, exposed-service checks, and failure-mode analysis. Shows security-minded engineering judgment around automation systems. |
 | Hutmates | Hobby game-development team project. Shows practical collaboration with a developer team, gameplay iteration, and 3D/physics-oriented product work outside the main KikuAI commercial focus. |

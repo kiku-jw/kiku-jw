@@ -36,11 +36,11 @@ human-owned.
 
 | Area | Evidence-backed scope | Representative evidence |
 | --- | --- | --- |
-| AI-assisted workflow automation | LLM integrations, structured extraction, classification, embeddings, semantic clustering, bounded agent workflows, and human review gates | [PATAS](https://github.com/PATAS-TAS/PATAS), [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) |
-| Python, backend, and APIs | FastAPI services, REST APIs, data processing, retries, caching, rate limits, and tests | [PATAS](https://github.com/PATAS-TAS/PATAS), [TAS](https://github.com/PATAS-TAS/tas), [reliapi](https://github.com/kiku-jw/reliapi), [masker](https://github.com/kiku-jw/masker) |
+| AI-assisted workflow automation | LLM integrations, structured extraction, classification, embeddings, semantic clustering, bounded agent workflows, and human review gates | [PATAS](https://github.com/PATAS-TAS/PATAS), [issue-control-loop](https://github.com/kiku-jw/codex-skills/tree/main/issue-control-loop) |
+| Python, backend, and APIs | FastAPI services, REST APIs, data processing, retries, caching, rate limits, and tests | [PATAS](https://github.com/PATAS-TAS/PATAS), [TAS](https://github.com/PATAS-TAS/tas), [reliapi](https://github.com/KikuAI-Lab/reliapi), [masker](https://github.com/KikuAI-Lab/masker) |
 | TypeScript and browser products | Nuxt/Vue product surfaces, Node.js automation, browser-local processing, and JavaScript media workflows | [KikuAI tools](https://kikuai.dev/tools/), [Long Video Transcriber](https://github.com/KikuAI-Lab/long-video-transcriber) |
-| Files, documents, and tabular data | CSV/JSON processing, feed repair, document cleanup, XLIFF/ZIP validation, structured exports, and reports | [Untwine](https://github.com/KikuAI-Lab/untwine), [WordPress ZIP Doctor](https://github.com/KikuAI-Lab/wordpress-zip-doctor), [DocStripper](https://github.com/kiku-jw/DocStripper) |
-| QA and evidence loops | Automated tests, manual checks, validators, proof packets, failure-mode analysis, and reviewable outputs | [issue-control-loop](https://github.com/kiku-jw/issue-control-loop), [Browser Tutorial Video](https://github.com/kiku-jw/codex-skills/tree/main/browser-tutorial-video) |
+| Files, documents, and tabular data | CSV/JSON processing, feed repair, document cleanup, XLIFF/ZIP validation, structured exports, and reports | [Untwine](https://github.com/KikuAI-Lab/untwine), [WordPress ZIP Doctor](https://github.com/KikuAI-Lab/wordpress-zip-doctor), [DocStripper](https://github.com/KikuAI-Lab/DocStripper) |
+| QA and evidence loops | Automated tests, manual checks, validators, proof packets, failure-mode analysis, and reviewable outputs | [issue-control-loop](https://github.com/kiku-jw/codex-skills/tree/main/issue-control-loop), [Browser Tutorial Video](https://github.com/kiku-jw/codex-skills/tree/main/browser-tutorial-video) |
 | End-to-end product engineering | Product framing, implementation, UI/API delivery, documentation, deployment, packaging, and validation | [KikuAI](https://kikuai.dev), [PATAS](https://patas.app) |
 
 ## Experience
@@ -165,7 +165,7 @@ employment documents are not public.
   specialization.
 - **Docker, GitHub Actions, Linux, Hetzner, systemd, and Cloudflare:** practical
   deployment and operations, without claiming enterprise SRE specialization.
-- **Swift/macOS:** [ClipStash](https://github.com/kiku-jw/ClipStash) and other
+- **Swift/macOS:** [ClipStash](https://github.com/KikuAI-Lab/ClipStash) and other
   native/local tooling work.
 - **Go:** focused public work such as [fynx](https://github.com/kiku-jw/fynx),
   with broader practice not represented by a large public Go codebase.
@@ -206,13 +206,13 @@ employment documents are not public.
 
 | Project | Evidence |
 | --- | --- |
-| [reliapi](https://github.com/kiku-jw/reliapi) | Retry, cache, circuit-breaker, rate-limit, and fallback patterns for API/LLM calls |
-| [masker](https://github.com/kiku-jw/masker) | PII-masking API, tests, and privacy-aware workflow design |
-| [DocStripper](https://github.com/kiku-jw/DocStripper) | Practical cleanup of copied or extracted text documents |
-| [ClipStash](https://github.com/kiku-jw/ClipStash) | Swift/macOS utility, local-first storage, search, and export |
-| [Chart2CSV](https://github.com/kiku-jw/Chart2CSV) | Chart-image to CSV-style extraction using FastAPI, OCR/CV, and vision-model paths |
+| [reliapi](https://github.com/KikuAI-Lab/reliapi) | Retry, cache, circuit-breaker, rate-limit, and fallback patterns for API/LLM calls |
+| [masker](https://github.com/KikuAI-Lab/masker) | PII-masking API, tests, and privacy-aware workflow design |
+| [DocStripper](https://github.com/KikuAI-Lab/DocStripper) | Practical cleanup of copied or extracted text documents |
+| [ClipStash](https://github.com/KikuAI-Lab/ClipStash) | Swift/macOS utility, local-first storage, search, and export |
+| [Chart2CSV](https://github.com/KikuAI-Lab/Chart2CSV) | Chart-image to CSV-style extraction using FastAPI, OCR/CV, and vision-model paths |
 | [Spatial Scene](https://github.com/kiku-jw/spatial-scene-api) | Deterministic image-to-parallax MP4 workflow with browser demo and FFmpeg pipeline |
-| [issue-control-loop](https://github.com/kiku-jw/issue-control-loop) | Deterministic GitHub Issue control loop for human-agent work |
+| [issue-control-loop](https://github.com/kiku-jw/codex-skills/tree/main/issue-control-loop) | Deterministic GitHub Issue control loop for human-agent work |
 | [Browser Tutorial Video](https://github.com/kiku-jw/codex-skills/tree/main/browser-tutorial-video) | Playwright/FFmpeg walkthrough production with cursor/click effects and frame-level QA |
 | [fynx](https://github.com/kiku-jw/fynx) | Focused Go classification utility with explainable rule-based output |
 | [GitHub Scanner](https://github.com/kiku-jw/kikuai-github-scanner) | Local-first discovery and scoring of public repository signals |
