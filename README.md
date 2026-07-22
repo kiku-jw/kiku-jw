@@ -21,9 +21,18 @@
 </p>
 
 <p align="center">
-  <a href="./CV.md">CV</a>
+  <strong>Follow:</strong>
+  <a href="https://t.me/kiku_ai">Telegram</a>
   ·
   <a href="https://www.linkedin.com/in/kiku-jw/">LinkedIn</a>
+  ·
+  <a href="https://x.com/kiku_JW">X</a>
+  ·
+  <a href="https://www.youtube.com/@kiku_JW">YouTube</a>
+</p>
+
+<p align="center">
+  <a href="./CV.md">CV</a>
   ·
   <a href="mailto:hi@kikuai.dev">Email</a>
 </p>
@@ -64,8 +73,6 @@ I own the path from product framing to tests, documentation, deployment, and the
   - [Open-source notes](https://kikuai.dev/open-source/)
   - [KikuAI Lab on GitHub](https://github.com/KikuAI-Lab)
   - [PATAS organization](https://github.com/PATAS-TAS)
-  - [X / Twitter](https://x.com/kiku_JW)
-  - [Telegram](https://t.me/kiku_ai)
 </details>
 
 <details>
