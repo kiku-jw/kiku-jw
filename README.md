@@ -5,7 +5,7 @@
 <h1 align="center">Nick / KikuAI</h1>
 
 <p align="center">
-  <strong>AI infrastructure, agent engineering, reliable APIs, developer tools, and focused solo products.</strong>
+  <strong>Product engineering across AI automation, backend systems, native software, and interactive products.</strong>
 </p>
 
 <p align="center">
@@ -13,22 +13,18 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://kikuai.dev/tools/">KikuAI tools</a></strong>
+  <strong><a href="https://kikuai.dev/">KikuAI</a></strong>
   ·
-  <strong><a href="https://patas.app/">PATAS</a></strong>
+  <strong><a href="https://hutmates.com/">Hutmates</a></strong>
   ·
   <strong><a href="./EXPERIENCE.md">Experience & evidence</a></strong>
 </p>
 
 <p align="center">
   <strong>Follow:</strong>
-  <a href="https://t.me/kiku_ai">Telegram</a>
-  ·
   <a href="https://www.linkedin.com/in/kiku-jw/">LinkedIn</a>
   ·
-  <a href="https://x.com/kiku_JW">X</a>
-  ·
-  <a href="https://www.youtube.com/@kiku_JW">YouTube</a>
+  <a href="https://t.me/kiku_ai">Telegram</a>
 </p>
 
 <p align="center">
@@ -45,7 +41,12 @@ My recurring workflow is simple:
 
 I own the path from product framing to tests, documentation, deployment, and the final artifact a person can inspect.
 
-## Core portfolio
+## Current work
+
+- **[KikuAI](https://kikuai.dev/)** — exploring the next narrow product around a recurring problem, an accessible first user, and a result that can be checked before the system grows.
+- **[Hutmates](https://hutmates.com/)** — contributing to a team-built cooperative game across Unity/C# gameplay, physics, multiplayer diagnostics, QA, and presentation.
+
+## Selected portfolio
 
 - **[PATAS](https://github.com/PATAS-TAS/PATAS)** — audit-first pattern discovery and rule management for historical message and moderation exports.
 - **[ReliAPI](https://github.com/KikuAI-Lab/reliapi)** — retries, caching, circuit breakers, rate limits, and cost controls for HTTP and LLM workflows.
@@ -73,6 +74,8 @@ I own the path from product framing to tests, documentation, deployment, and the
   - [Open-source notes](https://kikuai.dev/open-source/)
   - [KikuAI Lab on GitHub](https://github.com/KikuAI-Lab)
   - [PATAS organization](https://github.com/PATAS-TAS)
+  - [X](https://x.com/kiku_JW)
+  - [YouTube](https://www.youtube.com/@kiku_JW)
 </details>
 
 <details>
