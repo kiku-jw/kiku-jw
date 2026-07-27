@@ -4,7 +4,7 @@ Software Engineer / AI Automation Engineer
 
 Ukraine (Kyiv timezone)
 
-[Email](mailto:hi@kikuai.dev) · [LinkedIn](https://www.linkedin.com/in/kiku-jw/) · [GitHub](https://github.com/kiku-jw) · [KikuAI](https://kikuai.dev) · [PATAS](https://patas.app) · [Broad experience & evidence](./EXPERIENCE.md) · [X/Twitter](https://x.com/kiku_JW) · [Telegram](https://t.me/kiku_ai)
+[Website](https://kikuai.dev/) · [Telegram](https://t.me/kiku_ai) · [GitHub](https://github.com/kiku-jw)
 
 ## Profile
 
