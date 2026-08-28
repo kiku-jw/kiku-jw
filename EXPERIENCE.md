@@ -11,7 +11,7 @@ of work that would make the CV too diffuse.
 [LinkedIn](https://www.linkedin.com/in/kiku-jw/) ·
 [Email](mailto:hi@kikuai.dev)
 
-Last evidence review: **July 2026**
+Last evidence review: **August 2026**
 
 ## Professional Profile
 
@@ -39,6 +39,7 @@ human-owned.
 | AI-assisted workflow automation | LLM integrations, structured extraction, classification, embeddings, semantic clustering, bounded agent workflows, and human review gates | [PATAS](https://github.com/PATAS-TAS/PATAS), [issue-control-loop](https://github.com/kiku-jw/codex-skills/tree/main/issue-control-loop) |
 | Python, backend, and APIs | FastAPI services, REST APIs, data processing, retries, caching, rate limits, and tests | [PATAS](https://github.com/PATAS-TAS/PATAS), [TAS](https://github.com/PATAS-TAS/tas), [reliapi](https://github.com/KikuAI-Lab/reliapi), [masker](https://github.com/KikuAI-Lab/masker) |
 | TypeScript and browser products | Nuxt/Vue product surfaces, Node.js automation, browser-local processing, and JavaScript media workflows | [KikuAI tools](https://kikuai.dev/tools/), [Long Video Transcriber](https://github.com/KikuAI-Lab/long-video-transcriber) |
+| Native Apple and browser-store delivery | SwiftUI, iOS, watchOS, HealthKit, Manifest V3, local-first storage, multilingual packaging, and public store release workflows | [Hourleaf](https://apps.apple.com/app/id6801032003), [FitKiku](https://apps.apple.com/app/id6801516904), [Say More!](https://apps.apple.com/app/id6803824561), [StudyNav](https://chromewebstore.google.com/detail/studynav-%E2%80%94-unofficial-stu/bjgaghgbmghohpahonodejobgflpcbai), [Page Media Downloader](https://chromewebstore.google.com/detail/page-media-downloader/gipfohoiellkikkpbhhafjodamlfikod) |
 | Files, documents, and tabular data | CSV/JSON processing, feed repair, document cleanup, XLIFF/ZIP validation, structured exports, and reports | [Untwine](https://github.com/KikuAI-Lab/untwine), [WordPress ZIP Doctor](https://github.com/KikuAI-Lab/wordpress-zip-doctor), [DocStripper](https://github.com/KikuAI-Lab/DocStripper) |
 | QA and evidence loops | Automated tests, manual checks, validators, proof packets, failure-mode analysis, and reviewable outputs | [issue-control-loop](https://github.com/kiku-jw/codex-skills/tree/main/issue-control-loop), [Browser Tutorial Video](https://github.com/kiku-jw/codex-skills/tree/main/browser-tutorial-video) |
 | End-to-end product engineering | Product framing, implementation, UI/API delivery, documentation, deployment, packaging, and validation | [KikuAI](https://kikuai.dev), [PATAS](https://patas.app) |
@@ -55,6 +56,8 @@ human-owned.
   public presentation.
 - Build narrow workflows around file repair, transcript preparation, data
   cleanup, structured extraction, reporting, and operator review.
+- Shipped three public App Store products and two Chrome Web Store extensions
+  across native Apple apps, Apple Health, Apple Watch, and browser tooling.
 - Keep privacy claims precise and prefer local processing where it provides a
   real workflow advantage.
 
@@ -165,8 +168,11 @@ employment documents are not public.
   specialization.
 - **Docker, GitHub Actions, Linux, Hetzner, systemd, and Cloudflare:** practical
   deployment and operations, without claiming enterprise SRE specialization.
-- **Swift/macOS:** [ClipStash](https://github.com/KikuAI-Lab/ClipStash) and other
-  native/local tooling work.
+- **SwiftUI, iOS, watchOS, HealthKit, and macOS:** public native products include
+  [Hourleaf](https://apps.apple.com/app/id6801032003),
+  [FitKiku](https://apps.apple.com/app/id6801516904),
+  [Say More!](https://apps.apple.com/app/id6803824561), and
+  [ClipStash](https://github.com/KikuAI-Lab/ClipStash).
 - **Go:** focused public work such as [fynx](https://github.com/kiku-jw/fynx),
   with broader practice not represented by a large public Go codebase.
 - **Unity/C#/Photon Fusion:** practical team contribution, multiplayer and
@@ -194,6 +200,11 @@ employment documents are not public.
 
 | Project | Delivered artifact | What it demonstrates |
 | --- | --- | --- |
+| [Hourleaf: Ministry Hours](https://apps.apple.com/app/id6801032003) | Local-first ministry time ledger for iPhone and Apple Watch | SwiftUI, watchOS interaction design, local data, reports, widgets, backups, and App Store delivery |
+| [FitKiku](https://apps.apple.com/app/id6801516904) | Read-only Apple Health connector for personal AI agents | HealthKit permissions, privacy boundaries, native iOS delivery, and a narrow agent-facing protocol |
+| [Say More!](https://apps.apple.com/app/id6803824561) | Local-only multilingual conversation game for iPhone | SwiftUI delivery, localization, offline product design, and App Store release work |
+| [StudyNav — Unofficial Study Tools](https://chromewebstore.google.com/detail/studynav-%E2%80%94-unofficial-stu/bjgaghgbmghohpahonodejobgflpcbai) | Local-first Chromium study extension for supported public pages | TypeScript, local notes and saved places, browser media workflows, packaging, and Chrome Web Store delivery |
+| [Page Media Downloader](https://chromewebstore.google.com/detail/page-media-downloader/gipfohoiellkikkpbhhafjodamlfikod) | Chrome/Brave extension for page-exposed images and direct media | Manifest V3, scoped permissions, local processing, multilingual packaging, and explicit DRM/paywall non-goals |
 | [PATAS](https://github.com/PATAS-TAS/PATAS) | Pattern reports, semantic clusters, review queues, candidate rules, and false-positive notes | Python/FastAPI, embeddings, classification, reports, tests, packaging, and product ownership |
 | [TAS](https://github.com/PATAS-TAS/tas) | Rules-first classification API with metrics, feedback, and optional LLM fallback | API design, moderation-domain implementation, SDK surfaces, and tests |
 | [WordPress ZIP Doctor](https://github.com/KikuAI-Lab/wordpress-zip-doctor) | Installability diagnosis and safe package-repair workflow | Browser-local file inspection, deterministic validation, reports, and product UX |

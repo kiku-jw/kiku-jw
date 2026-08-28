@@ -40,6 +40,17 @@ I own the path from product framing to tests, documentation, deployment, and the
 - **[KikuAI](https://kikuai.dev/)** — exploring the next narrow product around a recurring problem, an accessible first user, and a result that can be checked before the system grows.
 - **[Hutmates](https://hutmates.com/)** — contributing to a team-built cooperative game across Unity/C# gameplay, physics, multiplayer diagnostics, QA, and presentation.
 
+## Shipped native and browser products
+
+- **[Hourleaf: Ministry Hours](https://apps.apple.com/app/id6801032003)** — local-first ministry time ledger for iPhone and Apple Watch.
+- **[FitKiku](https://apps.apple.com/app/id6801516904)** — read-only Apple Health connector for personal AI agents.
+- **[Say More!](https://apps.apple.com/app/id6803824561)** — local-only multilingual conversation game for iPhone, also presented as Dostavay on KikuAI.
+- **[StudyNav — Unofficial Study Tools](https://chromewebstore.google.com/detail/studynav-%E2%80%94-unofficial-stu/bjgaghgbmghohpahonodejobgflpcbai)** — local-first study helpers for supported public JW.org and WOL pages in Chromium browsers.
+- **[Page Media Downloader](https://chromewebstore.google.com/detail/page-media-downloader/gipfohoiellkikkpbhhafjodamlfikod)** — Chrome/Brave extension for page-exposed images and direct media, without DRM or paywall bypass claims.
+
+Store publication is evidence of shipped distribution, not a claim of adoption,
+revenue, or product-market fit.
+
 ## Selected portfolio
 
 - **[PATAS](https://github.com/PATAS-TAS/PATAS)** — audit-first pattern discovery and rule management for historical message and moderation exports.
