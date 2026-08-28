@@ -10,6 +10,8 @@ Ukraine (Kyiv timezone)
 
 Software / Product Engineer focused on AI automation, backend/API systems, data/message/document workflows, and operator-facing tools.
 
+Recent public delivery includes three native App Store products and two Chrome Web Store extensions, linked in the project evidence below. Store publication demonstrates shipped distribution; it does not by itself prove adoption, revenue, or product-market fit.
+
 I usually work on the full path from messy input to reviewable output: ingestion, parsing, cleanup, classification, extraction, API layer, deployment, monitoring, documentation, and the final artifact that an operator can inspect. The inputs are often files, logs, long media, messages, links, feeds, screenshots, exports, or broken imports. The outputs are reports, repaired files, transcripts, CSV/JSON exports, candidate rules, QA notes, or control loops.
 
 My current work is centered on KikuAI products, especially PATAS: an audit-first commercial-spam pattern discovery product for buyer-owned or sanitized moderation exports.
@@ -36,10 +38,10 @@ I am interested in roles where software engineering, product ownership, and proc
 
 - Languages: Python, TypeScript, JavaScript; substantial project work with Swift, Go, and C#
 - Backend: FastAPI, Node.js, REST APIs, PostgreSQL, Redis, SQLAlchemy, SQLite, Cloudflare D1
-- Frontend/product surfaces: Nuxt/Vue, React, HTML/CSS, browser-facing and local-first tools
+- Frontend/product surfaces: Nuxt/Vue, React, HTML/CSS, Chrome extensions, browser-facing and local-first tools
 - AI/LLM: LLM integrations, embeddings, semantic clustering/pattern mining, classification, summarization, structured extraction
 - Automation and data workflows: Telegram workflows, GitHub workflows, CSV/JSON processing, document cleanup, transcript preparation, report generation
-- Native and game development: Swift/macOS, Go, Unity/C#, Photon Fusion, multiplayer/authority and vehicle/platform physics workflows
+- Native and game development: SwiftUI, iOS, watchOS, HealthKit, macOS, Go, Unity/C#, Photon Fusion, multiplayer/authority and vehicle/platform physics workflows
 - Media, design, and documentation: DaVinci Resolve, FFmpeg, audio post-production, Photoshop, visual identity, UI/UX, data visualization, technical documentation, setup guides, QA checklists
 - Operations: Docker, GitHub Actions, Linux servers, macOS tooling, Cloudflare Pages/Workers/D1, Hetzner, logging, monitoring, environment management
 - Security and review: API security, rate limiting, PII masking, webhook validation, secret management, trust-boundary review, failure-mode analysis
@@ -56,6 +58,7 @@ November 2025 - Present
 - Own product direction, backend/API implementation, browser-facing tools, documentation, demos, and public positioning.
 - Develop productized workflows that turn messy inputs into reviewable outputs: reports, repaired files, transcripts, exports, and control loops.
 - Build across the product surface: input handling, parsing, data cleanup, LLM-assisted extraction/classification, API routes, UI flows, docs, demos, and deployment checks.
+- Shipped three public App Store products and two Chrome Web Store extensions across SwiftUI, HealthKit, Apple Watch, multilingual game design, and local-first browser tooling.
 - Current focus areas include PATAS, TAS, structured extraction, transcript review, data cleanup, chart digitization, issue workflows, and automation-first product design.
 
 ### PATAS
@@ -126,6 +129,11 @@ January 2018 - March 2020
 | Project | What it shows |
 | --- | --- |
 | [PATAS](https://patas.app) | Audit-first B2B SaaS/API for commercial-spam pattern reports on buyer-owned or sanitized moderation exports. Shows product ownership, anti-spam domain work, data analysis, classification, API packaging, and sales-oriented product development. |
+| [Hourleaf: Ministry Hours](https://apps.apple.com/app/id6801032003) | Public local-first iPhone and Apple Watch ministry time ledger. Shows SwiftUI, watchOS interaction design, local data, reporting, widgets, backups, and App Store delivery. |
+| [FitKiku](https://apps.apple.com/app/id6801516904) | Public read-only Apple Health connector for personal AI agents. Shows HealthKit permissions, privacy boundaries, native iOS delivery, and a narrow agent-facing protocol. |
+| [Say More!](https://apps.apple.com/app/id6803824561) | Public local-only multilingual conversation game for iPhone, also presented as Dostavay on KikuAI. Shows SwiftUI delivery, localization, offline product design, and App Store release work. |
+| [StudyNav — Unofficial Study Tools](https://chromewebstore.google.com/detail/studynav-%E2%80%94-unofficial-stu/bjgaghgbmghohpahonodejobgflpcbai) | Public local-first Chromium extension for supported JW.org and WOL pages. Shows TypeScript extension architecture, local notes and saved places, browser media workflows, packaging, and store delivery. |
+| [Page Media Downloader](https://chromewebstore.google.com/detail/page-media-downloader/gipfohoiellkikkpbhhafjodamlfikod) | Public Chrome/Brave extension for page-exposed images and direct media. Shows Manifest V3, scoped permissions, local processing, multilingual packaging, and explicit DRM/paywall non-goals. |
 | [KikuAI Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) | AI-assisted transcript workflow for turning long-form content into structured review output. Shows applied AI workflow design and browser-facing product delivery. |
 | [ClipStash](https://github.com/KikuAI-Lab/ClipStash) | Privacy-first clipboard manager for macOS. Shows local app development, user workflow design, and practical utility tooling. |
 | [DocStripper](https://github.com/KikuAI-Lab/DocStripper) | Batch document cleanup tool. Shows document processing, text cleanup, and automation around repetitive office workflows. |
@@ -155,4 +163,4 @@ MC SIHE KNU
 
 ## Search Keywords
 
-`Python` · `TypeScript` · `JavaScript` · `Swift` · `Go` · `C#` · `FastAPI` · `Node.js` · `Backend APIs` · `B2B SaaS` · `API Product` · `Nuxt` · `Vue` · `React` · `PostgreSQL` · `Redis` · `SQLAlchemy` · `Docker` · `GitHub Actions` · `Linux` · `macOS` · `Cloudflare` · `Hetzner` · `LLM` · `Embeddings` · `Semantic Clustering` · `DBSCAN` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `JSON` · `Document Processing` · `Transcript Workflows` · `DaVinci Resolve` · `FFmpeg` · `Audio Post-Production` · `Photoshop` · `Visual Identity` · `Data Visualization` · `Unity` · `Photon Fusion` · `Technical Documentation` · `QA Checklists` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Anti-Spam` · `PATAS`
+`Python` · `TypeScript` · `JavaScript` · `Swift` · `SwiftUI` · `iOS` · `watchOS` · `HealthKit` · `Chrome Extensions` · `Go` · `C#` · `FastAPI` · `Node.js` · `Backend APIs` · `B2B SaaS` · `API Product` · `Nuxt` · `Vue` · `React` · `PostgreSQL` · `Redis` · `SQLAlchemy` · `Docker` · `GitHub Actions` · `Linux` · `macOS` · `Cloudflare` · `Hetzner` · `LLM` · `Embeddings` · `Semantic Clustering` · `DBSCAN` · `AI Integrations` · `Workflow Automation` · `Structured Extraction` · `Summarization` · `Data Processing` · `CSV` · `JSON` · `Document Processing` · `Transcript Workflows` · `DaVinci Resolve` · `FFmpeg` · `Audio Post-Production` · `Photoshop` · `Visual Identity` · `Data Visualization` · `Unity` · `Photon Fusion` · `Technical Documentation` · `QA Checklists` · `Telegram Automation` · `GitHub Workflows` · `API Security` · `Rate Limiting` · `PII Masking` · `Webhook Validation` · `Content Moderation` · `Anti-Spam` · `PATAS`
