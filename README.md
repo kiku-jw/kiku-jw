@@ -42,20 +42,24 @@ I own the path from product framing to tests, documentation, deployment, and the
 
 ## Shipped native and browser products
 
-- **[Hourleaf: Ministry Hours](https://apps.apple.com/app/id6801032003)** — local-first ministry time ledger for iPhone and Apple Watch.
-- **[FitKiku](https://apps.apple.com/app/id6801516904)** — read-only Apple Health connector for personal AI agents.
+- **[Hourleaf: Ministry Hours](https://apps.apple.com/app/id6801032003)** — local-first ministry time ledger for iPhone and Apple Watch. [Source](https://github.com/KikuAI-Lab/Hourleaf).
+- **[FitKiku](https://apps.apple.com/app/id6801516904)** — read-only Apple Health connector for personal AI agents. [Source and release limitations](https://github.com/kiku-jw/fitkiku).
 - **[Say More!](https://apps.apple.com/app/id6803824561)** — local-only multilingual conversation game for iPhone, also presented as Dostavay on KikuAI.
-- **[StudyNav — Unofficial Study Tools](https://chromewebstore.google.com/detail/studynav-%E2%80%94-unofficial-stu/bjgaghgbmghohpahonodejobgflpcbai)** — local-first study helpers for supported public JW.org and WOL pages in Chromium browsers.
-- **[Page Media Downloader](https://chromewebstore.google.com/detail/page-media-downloader/gipfohoiellkikkpbhhafjodamlfikod)** — Chrome/Brave extension for page-exposed images and direct media, without DRM or paywall bypass claims.
+- **[StudyNav — Unofficial Study Tools](https://chromewebstore.google.com/detail/studynav-%E2%80%94-unofficial-stu/bjgaghgbmghohpahonodejobgflpcbai)** — local-first study helpers for supported public JW.org and WOL pages in Chromium browsers. [Source](https://github.com/kiku-jw/nick-extensions).
+- **[Page Media Downloader](https://chromewebstore.google.com/detail/page-media-downloader/gipfohoiellkikkpbhhafjodamlfikod)** — Chrome/Brave extension for page-exposed images and direct media, without DRM or paywall bypass claims. [Source and license](https://github.com/KikuAI-Lab/page-media-downloader).
 
 Store publication is evidence of shipped distribution, not a claim of adoption,
 revenue, or product-market fit.
 
 ## Selected portfolio
 
+Choose a project by the problem it addresses. Each repository documents its own
+setup, license, and limitations; this list does not promise an active roadmap
+or support commitment for every project.
+
 - **[PATAS](https://github.com/PATAS-TAS/PATAS)** — audit-first pattern discovery and rule management for historical message and moderation exports.
-- **[ReliAPI](https://github.com/KikuAI-Lab/reliapi)** — retries, caching, circuit breakers, rate limits, and cost controls for HTTP and LLM workflows.
-- **[ClipStash](https://github.com/KikuAI-Lab/ClipStash)** — native local-first macOS clipboard history utility in Swift.
+- **[ReliAPI](https://github.com/KikuAI-Lab/reliapi)** — beta self-hosted HTTP and LLM proxy with Redis-backed caching, non-streaming LLM idempotency, and estimated-budget guardrails. Retry and circuit-breaker code remains experimental.
+- **[ClipStash](https://github.com/kiku-jw/ClipStash)** — native local-first macOS clipboard history utility in Swift.
 - **[Untwine](https://github.com/KikuAI-Lab/untwine)** — deterministic diagnosis and safe repair for Articulate XLIFF import failures.
 
 <details>
@@ -64,7 +68,7 @@ revenue, or product-market fit.
   - [Masker](https://github.com/KikuAI-Lab/masker) — self-hostable PII redaction boundary for text, JSON, and OpenAI-compatible workflows.
   - [KikuAI GitHub Scanner](https://github.com/kiku-jw/kikuai-github-scanner) — local-first evidence pipeline for repository, demand, and opportunity signals.
   - [WordPress ZIP Doctor](https://kikuai.dev/tools/wordpress-zip-doctor/) — browser-local installability inspection and safe repackaging for WordPress packages.
-  - [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) — browser-local transcript and SRT/VTT export workflow.
+  - [Long Video Transcriber](https://kikuai.dev/translator-ready-srt/) — browser-local first-pass transcription and rough SRT/VTT export experiment. [Source and benchmark limitations](https://github.com/KikuAI-Lab/long-video-transcriber).
   - [Issue Control Loop](https://github.com/kiku-jw/codex-skills/tree/main/issue-control-loop) — deterministic GitHub Issue workflow for human-agent execution.
 </details>
 
