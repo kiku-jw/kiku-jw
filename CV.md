@@ -86,11 +86,11 @@ May 2020 - Present
 ### HUTMATES
 Game Developer / Team Contributor
 
-June 2026 - Present
+2026 (past project)
 
-- Contribute to a substantial Unity/C# team project using Photon Fusion Shared Mode.
-- Work on multiplayer authority and control behavior, vehicle/platform physics, WheelCollider and Rigidbody diagnostics, validators, reproducible preflight checks, and two-client playtesting.
-- Take ownership of bounded implementation and QA scopes while coordinating with the wider developer team and Unity Version Control workflow.
+- Contributed to a substantial Unity/C# team project using Photon Fusion Shared Mode.
+- Worked on multiplayer authority and control behavior, vehicle/platform physics, WheelCollider and Rigidbody diagnostics, validators, reproducible preflight checks, and two-client playtesting.
+- Took ownership of bounded implementation and QA scopes while coordinating with the wider developer team and Unity Version Control workflow.
 
 ### Applied Media, Documentation, QA, And Security Work
 Volunteer / Personal / Product Support
