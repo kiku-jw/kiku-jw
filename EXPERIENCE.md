@@ -102,10 +102,10 @@ public because of NDA obligations.
 
 ### HUTMATES - Hobby Game-development Team Contributor
 
-**2026 - present**
+**2026 (past project)**
 
-- Contribute to Unity/C# development and playtesting in a team environment.
-- Work with Photon Fusion Shared Mode, multiplayer authority/control behavior,
+- Contributed to Unity/C# development and playtesting in a team environment.
+- Worked with Photon Fusion Shared Mode, multiplayer authority/control behavior,
   WheelCollider/Rigidbody diagnostics, validators, reproducible preflight
   checks, and two-client testing.
 - Treat this as substantial practical team work, not a claim of sole ownership
