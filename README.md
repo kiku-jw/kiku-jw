@@ -38,7 +38,7 @@ I own the path from product framing to tests, documentation, deployment, and the
 ## Current work
 
 - **[KikuAI](https://kikuai.dev/)** — exploring the next narrow product around a recurring problem, an accessible first user, and a result that can be checked before the system grows.
-- **[Hutmates](https://hutmates.com/)** — contributing to a team-built cooperative game across Unity/C# gameplay, physics, multiplayer diagnostics, QA, and presentation.
+
 
 ## Shipped native and browser products
 
@@ -52,6 +52,10 @@ Store publication is evidence of shipped distribution, not a claim of adoption,
 revenue, or product-market fit.
 
 ## Selected portfolio
+
+Selected work includes completed projects and archived experiments; inclusion is not a claim of active development or support.
+
+- **[Hutmates](https://hutmates.com/)** — past contribution to a team-built cooperative game across Unity/C# gameplay, physics, multiplayer diagnostics, QA, and presentation.
 
 - **[PATAS](https://github.com/PATAS-TAS/PATAS)** — audit-first pattern discovery and rule management for historical message and moderation exports.
 - **[ReliAPI](https://github.com/KikuAI-Lab/reliapi)** — retries, caching, circuit breakers, rate limits, and cost controls for HTTP and LLM workflows.
