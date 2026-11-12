@@ -6,10 +6,10 @@
 
 <!-- author-links:start -->
 <p align="center">
-  <a href="https://kikuai.dev/"><img src="https://img.shields.io/badge/Website-kikuai.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="KikuAI website"></a>
-  <a href="https://t.me/kiku_ai"><img src="https://img.shields.io/badge/Telegram-%40kiku__ai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @kiku_ai"></a>
-  <a href="https://github.com/kiku-jw"><img src="https://img.shields.io/badge/GitHub-%40kiku--jw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @kiku-jw"></a>
-  <a href="https://chatgpt.com/?q=Who%20is%20Nick%20KikuAI?%20Write%20an%20%22about%20me%22%20section%20for%20Nick"><img src="https://img.shields.io/badge/ChatGPT-About%20me-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Ask ChatGPT about Nick / KikuAI"></a>
+  <a href="https://kikuai.dev/"><img src="./assets/profile-button-website.svg" alt="KikuAI website" height="40"></a>
+  <a href="https://t.me/kiku_ai"><img src="./assets/profile-button-telegram.svg" alt="Telegram @kiku_ai" height="40"></a>
+  <a href="https://github.com/kiku-jw"><img src="./assets/profile-button-github.svg" alt="GitHub @kiku-jw" height="40"></a>
+  <a href="https://chatgpt.com/?q=Who%20is%20Nick%20KikuAI?%20Write%20an%20%22about%20me%22%20section%20for%20Nick"><img src="./assets/profile-button-chatgpt.svg" alt="Ask ChatGPT about Nick / KikuAI" height="40"></a>
 </p>
 <p align="center">
   <sub>Follow new projects and updates from <a href="https://github.com/kiku-jw">@kiku-jw</a>.</sub>
